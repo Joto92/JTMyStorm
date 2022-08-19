@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_SHARDBEARER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KATTARIS_SWORDSMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HALFSHARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_THAYLEN_SHIP" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_WAR_FORM" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SHANAY_IM_FUSED" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GOD_PRIEST_GUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MANDRAS_SHIP" Kind="KIND_ABILITY"/>
+
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Kind="KIND_ABILITY"/>
+
+	</Types>
+	
+	<TypeTags>
+		<Row Type="ABILITY_SHARDBEARER" Tag="CLASS_SHARDBEARER"/>
+		<Row Type="ABILITY_KATTARIS_SWORDSMAN" Tag="CLASS_KATTARIS_SWORDSMAN"/>
+		<Row Type="ABILITY_HALFSHARD" Tag="CLASS_HALFSHARD"/>
+		<Row Type="ABILITY_THAYLEN_SHIP" Tag="CLASS_THAYLEN_SHIP"/>
+		<Row Type="ABILITY_WAR_FORM" Tag="CLASS_WAR_FORM"/>
+		<Row Type="ABILITY_SHANAY_IM_FUSED" Tag="CLASS_SHANAY_IM_FUSED"/>
+		<Row Type="ABILITY_GOD_PRIEST_GUARD" Tag="CLASS_GOD_PRIEST_GUARD"/>
+		<Row Type="ABILITY_MANDRAS_SHIP" Tag="CLASS_MANDRAS_SHIP"/>
+
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_RECON"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_MELEE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_RANGED"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_ANTI_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_SIEGE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_NAVAL_MELEE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_NAVAL_RANGED"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_NAVAL_RAIDER"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_NAVAL_CARRIER"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Tag="CLASS_AIRCRAFT"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_RECON"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_MELEE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_RANGED"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_ANTI_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_SIEGE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_NAVAL_MELEE"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_NAVAL_RANGED"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_NAVAL_RAIDER"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_NAVAL_CARRIER"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_RELIGIOUS_ALL"/>
+		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_AIRCRAFT"/>
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SHARDBEARER" Name="LOC_ABILITY_SHARDBEARER_NAME" Description="LOC_ABILITY_SHARDBEARER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_KATTARIS_SWORDSMAN" Name="LOC_ABILITY_KATTARIS_SWORDSMAN_NAME" Description="LOC_ABILITY_KATTARIS_SWORDSMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HALFSHARD" Name="LOC_ABILITY_HALFSHARD_NAME" Description="LOC_ABILITY_HALFSHARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_THAYLEN_SHIP" Name="LOC_ABILITY_THAYLEN_SHIP_NAME" Description="LOC_ABILITY_THAYLEN_SHIP_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_WAR_FORM" Name="LOC_ABILITY_WAR_FORM_NAME" Description="LOC_ABILITY_WAR_FORM_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SHANAY_IM_FUSED" Name="LOC_ABILITY_SHANAY_IM_FUSED_NAME" Description="LOC_ABILITY_SHANAY_IM_FUSED_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOD_PRIEST_GUARD" Name="LOC_ABILITY_GOD_PRIEST_GUARD_NAME" Description="LOC_ABILITY_GOD_PRIEST_GUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MANDRAS_SHIP" Name="LOC_ABILITY_MANDRAS_SHIP_NAME" Description="LOC_ABILITY_MANDRAS_SHIP_DESCRIPTION"/>
+
+		<Row UnitAbilityType="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Name="LOC_ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES_NAME" Description="LOC_ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Name="LOC_ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION_NAME" Description="LOC_ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION" Inactive="true"/>
+
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_SHARDBEARER</UnitAbilityType>
+			<ModifierId>MYSTORM_UNIT_GREAT_GENERAL_POINTS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_KATTARIS_SWORDSMAN</UnitAbilityType>
+			<ModifierId>MYSTORM_POST_COMBAT_CULTURE_ON_CONTINENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HALFSHARD</UnitAbilityType>
+			<ModifierId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_THAYLEN_SHIP</UnitAbilityType>
+			<ModifierId>MYSTORM_UNIT_FASTER_COAST</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_WAR_FORM</UnitAbilityType>
+			<ModifierId>MYSTORM_WAR_FORM_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHANAY_IM_FUSED</UnitAbilityType>
+			<ModifierId>MYSTORM_FOREST_SIGHT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHANAY_IM_FUSED</UnitAbilityType>
+			<ModifierId>MYSTORM_FOREST_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHANAY_IM_FUSED</UnitAbilityType>
+			<ModifierId>MYSTORM_NEGATIVE_COMBAT</ModifierId>
+		</Row>
+		
+		<Row>
+			<UnitAbilityType>ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES</UnitAbilityType>
+			<ModifierId>MYSTORM_COMBAT_BONUS_VS_CITY_STATES</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION</UnitAbilityType>
+			<ModifierId>MYSTORM_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GOD_PRIEST_GUARD</UnitAbilityType>
+			<ModifierId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MANDRAS_SHIP</UnitAbilityType>
+			<ModifierId>MYSTORM_OCEAN_COMBAT</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_GREAT_GENERAL_POINTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_GREAT_PEOPLE_POINTS_PER_KILL</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_POST_COMBAT_CULTURE_ON_CONTINENT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_UNIT_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_FASTER_COAST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_SEA_MOVEMENT</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_UNIT_PLOT_IS_COAST</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_FORM_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_UNIT_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>WAR_FORM_PLOT_IS_WAR_FORM_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_FORM_COMBAT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_FOREST_SIGHT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_SEE_THROUGH_FEATURES</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_FOREST_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_TERRAIN_COST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_COMBAT_BONUS_VS_CITY_STATES</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REQUIREMENTS_OPPONENT_IS_MINOR_CIV</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_NEGATIVE_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_ALL_UNITS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>VARU_ADJACENT_AT_WAR_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_NEGATIVE_COMBAT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REQUIREMENTS_OPPONENT_IS_OTHER_RELIGION</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_OCEAN_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_UNIT_PLOT_IS_OCEAN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_GREAT_GENERAL_POINTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_GREAT_GENERAL_POINTS</ModifierId>
+			<Name>GreatPersonClassType</Name>
+			<Value>GREAT_PERSON_CLASS_GENERAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_POST_COMBAT_CULTURE_ON_CONTINENT</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_POST_COMBAT_CULTURE_ON_CONTINENT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_FASTER_COAST</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_FORM_NEIGHBOR_COMBAT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYSTORM_WAR_FORM_COMBAT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_FORM_COMBAT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_FOREST_SIGHT</ModifierId>
+			<Name>CanSee</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_FOREST_MOVEMENT</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_FOREST_MOVEMENT</ModifierId>
+			<Name>Type</Name>
+			<Value>FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_COMBAT_BONUS_VS_CITY_STATES</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_NEGATIVE_COMBAT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>VARU_NEGATIVE_COMBAT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_NEGATIVE_COMBAT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>-5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_OCEAN_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_COAST</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>WAR_FORM_PLOT_IS_WAR_FORM_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_OCEAN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_ON_HOME_CONTINENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MELEE_COMBAT_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_COAST</RequirementSetId>
+			<RequirementId>REQUIRES_TERRAIN_COAST</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>WAR_FORM_PLOT_IS_WAR_FORM_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_WAR_FORM</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_IS_ADJACENT_RELIGIOUS_ALL_TAG</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_UNIT_PLOT_IS_OCEAN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_TERRAIN_OCEAN</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYSTORM_UNIT_STRONG_WHEN_DEFENDING_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLAYER_IS_ATTACKING</RequirementType>
+			<Inverse>true</Inverse>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_WAR_FORM</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_WAR_FORM</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_WAR_FORM</Value>
+		</Row>
+	</RequirementArguments>
+	<ModifierStrings>
+		<Row ModifierId="MYSTORM_WAR_FORM_COMBAT_MODIFIER" Context="Preview" Text="LOC_ABILITY_WAR_FORM_DESCRIPTION"/>
+		<Row ModifierId="MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Context="Preview" Text="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION"/>
+		<Row ModifierId="MYSTORM_NEGATIVE_COMBAT" Context="Preview" Text="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION"/>
+		<Row ModifierId="MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Context="Preview" Text="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION"/>
+		<Row ModifierId="MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_COMBAT" Context="Preview" Text="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION"/>
+		<Row ModifierId="MYSTORM_OCEAN_COMBAT" Context="Preview" Text="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION"/>
+
+	</ModifierStrings>
+</GameData>

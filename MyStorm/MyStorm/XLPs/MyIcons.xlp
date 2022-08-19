@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyStormFlag256"/>
+			<m_ObjectName text="MyStormFlag256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag80"/>
+			<m_ObjectName text="MyStormFlag80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag64"/>
+			<m_ObjectName text="MyStormFlag64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag50"/>
+			<m_ObjectName text="MyStormFlag50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag48"/>
+			<m_ObjectName text="MyStormFlag48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag45"/>
+			<m_ObjectName text="MyStormFlag45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag44"/>
+			<m_ObjectName text="MyStormFlag44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag36"/>
+			<m_ObjectName text="MyStormFlag36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag32"/>
+			<m_ObjectName text="MyStormFlag32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag30"/>
+			<m_ObjectName text="MyStormFlag30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormFlag22"/>
+			<m_ObjectName text="MyStormFlag22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders32"/>
+			<m_ObjectName text="MyStormLeaders32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders45"/>
+			<m_ObjectName text="MyStormLeaders45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders48"/>
+			<m_ObjectName text="MyStormLeaders48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders50"/>
+			<m_ObjectName text="MyStormLeaders50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders55"/>
+			<m_ObjectName text="MyStormLeaders55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders64"/>
+			<m_ObjectName text="MyStormLeaders64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders80"/>
+			<m_ObjectName text="MyStormLeaders80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormLeaders256"/>
+			<m_ObjectName text="MyStormLeaders256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings22"/>
+			<m_ObjectName text="MyStorm_Buildings22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings32"/>
+			<m_ObjectName text="MyStorm_Buildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings38"/>
+			<m_ObjectName text="MyStorm_Buildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings50"/>
+			<m_ObjectName text="MyStorm_Buildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings70"/>
+			<m_ObjectName text="MyStorm_Buildings70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings80"/>
+			<m_ObjectName text="MyStorm_Buildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings128"/>
+			<m_ObjectName text="MyStorm_Buildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Buildings256"/>
+			<m_ObjectName text="MyStorm_Buildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormReligionIcon_22"/>
+			<m_ObjectName text="MyStormReligionIcon_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormReligionIcon_50"/>
+			<m_ObjectName text="MyStormReligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormReligionIcon_100"/>
+			<m_ObjectName text="MyStormReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormReligionIcon_270"/>
+			<m_ObjectName text="MyStormReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units22"/>
+			<m_ObjectName text="MyStorm_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units32"/>
+			<m_ObjectName text="MyStorm_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units38"/>
+			<m_ObjectName text="MyStorm_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units50"/>
+			<m_ObjectName text="MyStorm_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units80"/>
+			<m_ObjectName text="MyStorm_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units256"/>
+			<m_ObjectName text="MyStorm_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units22_FOW"/>
+			<m_ObjectName text="MyStorm_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units32_FOW"/>
+			<m_ObjectName text="MyStorm_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units38_FOW"/>
+			<m_ObjectName text="MyStorm_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units50_FOW"/>
+			<m_ObjectName text="MyStorm_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units80_FOW"/>
+			<m_ObjectName text="MyStorm_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStorm_Units256_FOW"/>
+			<m_ObjectName text="MyStorm_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits38"/>
+			<m_ObjectName text="MyStormPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits50"/>
+			<m_ObjectName text="MyStormPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits70"/>
+			<m_ObjectName text="MyStormPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits95"/>
+			<m_ObjectName text="MyStormPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits200"/>
+			<m_ObjectName text="MyStormPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyStormPotraits256"/>
+			<m_ObjectName text="MyStormPotraits256"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

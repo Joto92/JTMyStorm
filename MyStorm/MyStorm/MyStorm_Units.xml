@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!-- 
+Mandras Ship	=> U-Boat =>  Has a lower production cost and receives a combat bonus (+10) in deep ocean. 
+-->
+	<Types>
+		<Row Type="UNIT_SHARDBEARER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_KATTARIS_SWORDSMAN" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_HALFSHARD" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_THAYLEN_SHIP" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_SHIN_LANCERS" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WAR_FORM" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_SHANAY_IM_FUSED" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_GOD_PRIEST_GUARD" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_MANDRAS_SHIP" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_SHARDBEARER" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SHARDBEARER" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SHARDBEARER" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SHARDBEARER" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_KATTARIS_SWORDSMAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_KATTARIS_SWORDSMAN" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_KATTARIS_SWORDSMAN" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_KATTARIS_SWORDSMAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_HALFSHARD" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_HALFSHARD" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_HALFSHARD" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_HALFSHARD" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_THAYLEN_SHIP" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_THAYLEN_SHIP" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_THAYLEN_SHIP" AiType="UNITTYPE_NAVAL"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" AiType="UNITTYPE_CAVALRY"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_WAR_FORM" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_WAR_FORM" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_WAR_FORM" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_WAR_FORM" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_SHANAY_IM_FUSED" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_SHANAY_IM_FUSED" AiType="UNITTYPE_CAVALRY"/>
+		<Row UnitType="UNIT_SHANAY_IM_FUSED" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_SHANAY_IM_FUSED" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_GOD_PRIEST_GUARD" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_GOD_PRIEST_GUARD" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_GOD_PRIEST_GUARD" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_GOD_PRIEST_GUARD" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_MANDRAS_SHIP" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_MANDRAS_SHIP" AiType="UNITTYPE_RANGED"/>
+		<Row UnitType="UNIT_MANDRAS_SHIP" AiType="UNITTYPE_NAVAL"/>
+	</UnitAiInfos>
+
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_KATTARIS_SWORDSMAN" ReplacesUnitType="UNIT_MAN_AT_ARMS"/>
+		<Row CivUniqueUnitType="UNIT_THAYLEN_SHIP" ReplacesUnitType="UNIT_FRIGATE"/>
+		<Row CivUniqueUnitType="UNIT_SHIN_LANCERS" ReplacesUnitType="UNIT_HORSEMAN"/>
+		<Row CivUniqueUnitType="UNIT_WAR_FORM" ReplacesUnitType="UNIT_MAN_AT_ARMS"/>
+		<Row CivUniqueUnitType="UNIT_SHANAY_IM_FUSED" ReplacesUnitType="UNIT_KNIGHT"/>
+		<Row CivUniqueUnitType="UNIT_GOD_PRIEST_GUARD" ReplacesUnitType="UNIT_MAN_AT_ARMS"/>
+		<Row CivUniqueUnitType="UNIT_MANDRAS_SHIP" ReplacesUnitType="UNIT_FRIGATE"/>
+	</UnitReplaces>
+	
+	<Tags>
+		<Row Tag="CLASS_SHARDBEARER" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_KATTARIS_SWORDSMAN" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_HALFSHARD" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_THAYLEN_SHIP" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_WAR_FORM" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_SHANAY_IM_FUSED" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_GOD_PRIEST_GUARD" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_MANDRAS_SHIP" Vocabulary="ABILITY_CLASS"/>
+
+	</Tags>
+
+	<TypeTags>
+		<Row Type="UNIT_SHARDBEARER" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_SHARDBEARER" Tag="CLASS_SHARDBEARER"/>
+		<Row Type="UNIT_KATTARIS_SWORDSMAN" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_KATTARIS_SWORDSMAN" Tag="CLASS_KATTARIS_SWORDSMAN"/>
+		<Row Type="UNIT_HALFSHARD" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_HALFSHARD" Tag="CLASS_HALFSHARD"/>
+		<Row Type="UNIT_THAYLEN_SHIP" Tag="CLASS_NAVAL_RANGED"/>
+		<Row Type="UNIT_THAYLEN_SHIP" Tag="CLASS_THAYLEN_SHIP"/>
+		<Row Type="UNIT_SHIN_LANCERS" Tag="CLASS_LIGHT_CAVALRY"/>
+		<Row Type="UNIT_WAR_FORM" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_WAR_FORM" Tag="CLASS_WAR_FORM"/>
+		<Row Type="UNIT_SHANAY_IM_FUSED" Tag="CLASS_HEAVY_CAVALRY"/>
+		<Row Type="UNIT_SHANAY_IM_FUSED" Tag="CLASS_SHANAY_IM_FUSED"/>
+		<Row Type="UNIT_GOD_PRIEST_GUARD" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_GOD_PRIEST_GUARD" Tag="CLASS_GOD_PRIEST_GUARD"/>
+		<Row Type="UNIT_MANDRAS_SHIP" Tag="CLASS_NAVAL_RANGED"/>
+		<Row Type="UNIT_MANDRAS_SHIP" Tag="CLASS_MANDRAS_SHIP"/>
+	</TypeTags>
+
+	<Units>
+		<Row UnitType="UNIT_SHARDBEARER" Cost="240" Maintenance="6" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="56" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" TraitType="TRAIT_CIVILIZATION_UNIT_SHARDBEARER" PrereqCivic="CIVIC_FEUDALISM" StrategicResource="RESOURCE_IRON"/>
+		<Row UnitType="UNIT_KATTARIS_SWORDSMAN" Cost="160" Maintenance="3" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="45" StrategicResource="RESOURCE_IRON" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_KATTARIS_SWORDSMAN_NAME" Description="LOC_UNIT_KATTARIS_SWORDSMAN_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" PrereqTech="TECH_APPRENTICESHIP"  TraitType="TRAIT_CIVILIZATION_UNIT_KATTARIS_SWORDSMAN"/>
+		<Row UnitType="UNIT_HALFSHARD" Cost="200" Maintenance="4" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="50" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" TraitType="TRAIT_CIVILIZATION_UNIT_HALFSHARD" PrereqTech="TECH_APPRENTICESHIP" StrategicResource="RESOURCE_IRON"/>
+		<Row UnitType="UNIT_THAYLEN_SHIP" BaseMoves="5" Cost="300" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_SEA" FormationClass="FORMATION_CLASS_NAVAL" Name="LOC_UNIT_THAYLEN_SHIP_NAME" Description="LOC_UNIT_THAYLEN_SHIP_DESCRIPTION" PurchaseYield="YIELD_GOLD" PseudoYieldType="PSEUDOYIELD_UNIT_NAVAL_COMBAT" PromotionClass="PROMOTION_CLASS_NAVAL_RANGED" Maintenance="5" Combat="45" MandatoryObsoleteTech="TECH_LASERS" RangedCombat="55" Range="2" PrereqCivic="CIVIC_GUILDS" TraitType="TRAIT_CIVILIZATION_UNIT_THAYLEN_SHIP"/>
+		<Row UnitType="UNIT_SHIN_LANCERS" Cost="110" Maintenance="2" BaseMoves="4" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="39" StrategicResource="RESOURCE_HORSES" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_LIGHT_CAVALRY" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_SHIN_LANCERS_NAME" Description="LOC_UNIT_SHIN_LANCERS_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_SYNTHETIC_MATERIALS" PrereqTech="TECH_HORSEBACK_RIDING"  TraitType="TRAIT_CIVILIZATION_UNIT_SHIN_LANCERS"  BuildCharges="1"/>
+		<Row UnitType="UNIT_WAR_FORM" Cost="170" Maintenance="3" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="45" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" PrereqTech="TECH_APPRENTICESHIP" TraitType="TRAIT_CIVILIZATION_UNIT_WAR_FORM"/>
+		<Row UnitType="UNIT_SHANAY_IM_FUSED" Cost="180" Maintenance="4" BaseMoves="4" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="50" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_COMPOSITES" PrereqCivic="CIVIC_DIVINE_RIGHT" TraitType="TRAIT_CIVILIZATION_UNIT_SHANAY_IM_FUSED"/>
+		<Row UnitType="UNIT_GOD_PRIEST_GUARD" Cost="160" Maintenance="3" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="45" StrategicResource="RESOURCE_IRON" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_GOD_PRIEST_GUARD_NAME" Description="LOC_UNIT_GOD_PRIEST_GUARD_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" PrereqTech="TECH_APPRENTICESHIP" TraitType="TRAIT_CIVILIZATION_UNIT_GOD_PRIEST_GUARD"/>
+		<Row UnitType="UNIT_MANDRAS_SHIP" BaseMoves="5" Cost="300" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_SEA" FormationClass="FORMATION_CLASS_NAVAL" Name="LOC_UNIT_MANDRAS_SHIP_NAME" Description="LOC_UNIT_MANDRAS_SHIP_DESCRIPTION" PurchaseYield="YIELD_GOLD" PseudoYieldType="PSEUDOYIELD_UNIT_NAVAL_COMBAT" PromotionClass="PROMOTION_CLASS_NAVAL_RANGED" Maintenance="5" Combat="45" MandatoryObsoleteTech="TECH_LASERS" RangedCombat="55" Range="2" PrereqCivic="CIVIC_GUILDS" TraitType="TRAIT_CIVILIZATION_UNIT_MANDRAS_SHIP"/>
+
+	</Units>
+
+	<UnitUpgrades>
+		<Row Unit="UNIT_SHARDBEARER" UpgradeUnit="UNIT_LINE_INFANTRY"/>
+		<Row Unit="UNIT_KATTARIS_SWORDSMAN" UpgradeUnit="UNIT_MUSKETMAN"/>
+		<Row Unit="UNIT_HALFSHARD" UpgradeUnit="UNIT_MUSKETMAN"/>
+		<Row Unit="UNIT_THAYLEN_SHIP" UpgradeUnit="UNIT_BATTLESHIP"/>
+		<Row Unit="UNIT_SHIN_LANCERS" UpgradeUnit="UNIT_CAVALRY"/>
+		<Row Unit="UNIT_WAR_FORM" UpgradeUnit="UNIT_MUSKETMAN"/>
+		<Row Unit="UNIT_SHANAY_IM_FUSED" UpgradeUnit="UNIT_TANK"/>
+		<Row Unit="UNIT_GOD_PRIEST_GUARD" UpgradeUnit="UNIT_MUSKETMAN"/>
+		<Row Unit="UNIT_MANDRAS_SHIP" UpgradeUnit="UNIT_BATTLESHIP"/>
+
+	</UnitUpgrades>
+</GameData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELHOKAR_KHOLIN_QUOTE" Language="en_US">
+			<Text>Perhaps the liar here is me — lying to tell myself I could do this, that I could be a fraction of the man my father was.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DALINAR_KHOLIN_QUOTE" Language="en_US">
+			<Text>What is the most important step that a man can take?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOROL_SADEAS_QUOTE" Language="en_US">
+			<Text>We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JASNAH_KHOLIN_QUOTE" Language="en_US">
+			<Text>It strikes me that religion—in its essence — seeks to take natural events and ascribe supernatural causes to them. I, however, seek to take supernatural events and find the natural meanings behind them. Perhaps that is the final dividing line between science and religion. Opposite sides of a card.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YANAGAWN_QUOTE" Language="en_US">
+			<Text>I would say that hope defines us, Jasnah. Without it, we are not human.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TARAVANGIAN_QUOTE" Language="en_US">
+			<Text>Someone must bear the responsibility, someone must be dragged down by it, ruined by it. Someone must stain their souls so others may live. Society offers us up to trudge through dirty waters so others may be clean.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VALAM_QUOTE" Language="en_US">
+			<Text>So the night will reign, for the choice of honor is life...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FEN_RNAMDI_QUOTE" Language="en_US">
+			<Text>He acts as if this city is a burial ground. That is not the case. We will rebuild from stone.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ESHONAI_QUOTE" Language="en_US">
+			<Text>With enough of us bearing this form together, we could bring it. We could bend the storms to our will, and could bring bring them down upon our enemies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RABONIEL_QUOTE" Language="en_US">
+			<Text>Humans never use what is around them to its fullest. They always impose their will far too strongly.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VENLI_QUOTE" Language="en_US">
+			<Text>Don't make this harder than it already is. I'm not here to help the humans. I can barely help my own kind.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TEZIM_QUOTE" Language="en_US">
+			<Text>A warning, from Tezim the Great, last and first man, Herald of Heralds and bearer of the Oathpact. His grandness, immortality, and power be praised. Lift up your heads and hear, men of the east, of your God’s proclamation. None are Radiant but him. His fury is ignited by your pitiful claims, and your unlawful capture of his holy city is an act of rebellion, depravity, and wickedness. Open your gates, men of the east, to his righteous soldiers and deliver unto him your spoils. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEKEIR_QUOTE" Language="en_US">
+			<Text>Humans are monsters, with a lust for death that can never be sated. You thrive upon the terrible emotions of the Unmade. You don't fight Odium. You are Odium.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ODIUM_QUOTE" Language="en_US">
+			<Text>They call me Odium. A good enough name. It does have a certain bite to it. But the word is too limiting to describe me, and you should know that it is not all I represent.</Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>

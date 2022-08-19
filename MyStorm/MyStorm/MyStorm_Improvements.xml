@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_VORIN_TEMPLE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_STONE_SHRINE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_HIGH_CHAMBERS" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqTech="TECH_CONSTRUCTION" SameAdjacentValid="false" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_VORIN_TEMPLE" Appeal="1"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" Name="LOC_IMPROVEMENT_STONE_SHRINE_NAME" Description="LOC_IMPROVEMENT_STONE_SHRINE_DESCRIPTION" Icon="ICON_IMPROVEMENT_STONE_SHRINE" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqTech="TECH_CONSTRUCTION" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_STONE_SHRINE" Appeal="1"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" PlunderType="PLUNDER_GOLD" PlunderAmount="25" Buildable="true" PrereqTech="TECH_CONSTRUCTION" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_HIGH_CHAMBERS" Appeal="1"/>
+
+	</Improvements>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" TerrainType="TERRAIN_GRASS_HILLS"/>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" UnitType="UNIT_SHIN_LANCERS"/>
+		<Row ImprovementType="IMPROVEMENT_FARM" UnitType="UNIT_SHIN_LANCERS"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldType="YIELD_FOOD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+	</Improvement_YieldChanges>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" YieldChangeId="VorinTemple_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_VORIN_TEMPLE" YieldChangeId="VorinTemple_Food"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldChangeId="StoneShrine_Faith"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldChangeId="StoneShrineFarm_Food"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_SHRINE" YieldChangeId="StoneShrineFarm_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" YieldChangeId="HighChambers_ProductionCity"/>
+		<Row ImprovementType="IMPROVEMENT_HIGH_CHAMBERS" YieldChangeId="HighChambers_ProductionIndustrial"/>
+	</Improvement_Adjacencies>
+	
+	<Adjacency_YieldChanges>
+		<Row ID="VorinTemple_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="VorinTemple_Food" Description="Placeholder" YieldType="YIELD_FOOD" YieldChange="3" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="StoneShrine_Faith" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_HOLY_SITE"/>
+		<Row ID="StoneShrineFarm_Food" Description="Placeholder" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_FARM"/>
+		<Row ID="StoneShrineFarm_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_FARM"/>
+		<Row ID="HighChambers_ProductionCity" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_CITY_CENTER"/>
+		<Row ID="HighChambers_ProductionIndustrial" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="3" TilesRequired="1" AdjacentDistrict="DISTRICT_INDUSTRIAL_ZONE"/>
+	</Adjacency_YieldChanges>
+	
+</GameData>

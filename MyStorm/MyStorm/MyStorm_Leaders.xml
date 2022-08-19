@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_ELHOKAR_KHOLIN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_VENGEANCE_PACT" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_DALINAR_KHOLIN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_THE_WAY_OF_KINGS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_TOROL_SADEAS" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_JASNAH_KHOLIN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_ELSECALLING" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_YANAGAWN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_PRIME_AQASIX" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_TARAVANGIAN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_THE_DIAGRAM" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_VALAM" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_VEDEN_PRINCE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_FEN_RNAMDI" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_BRIGHTNESS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_STONE_SHAMAN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_SPIRITS_OF_STONES" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ESHONAI" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_COUNCIL_OF_FIVE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_RABONIEL" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_LADY_OF_WISHES" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_VENLI" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_TIMBRE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_TEZIM" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_HERALD_OF_LUCK" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_SEKEIR" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_SPLINTER_OF_HONOR" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ODIUM" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_RAYSE" Kind="KIND_TRAIT"/>
+
+		<Row Type="TRAIT_CIVILIZATION_DISTRICT_LISTENERS_FORMS_STUDY" Kind="KIND_TRAIT" />
+	</Types>
+	
+	<Leaders>
+		<Row LeaderType="LEADER_ELHOKAR_KHOLIN" Name="LOC_LEADER_ELHOKAR_KHOLIN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DALINAR_KHOLIN" Name="LOC_LEADER_DALINAR_KHOLIN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_TOROL_SADEAS" Name="LOC_LEADER_TOROL_SADEAS_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_JASNAH_KHOLIN" Name="LOC_LEADER_JASNAH_KHOLIN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_YANAGAWN" Name="LOC_LEADER_YANAGAWN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_TARAVANGIAN" Name="LOC_LEADER_TARAVANGIAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_VALAM" Name="LOC_LEADER_VALAM_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_FEN_RNAMDI" Name="LOC_LEADER_FEN_RNAMDI_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_STONE_SHAMAN" Name="LOC_LEADER_STONE_SHAMAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ESHONAI" Name="LOC_LEADER_ESHONAI_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_RABONIEL" Name="LOC_LEADER_RABONIEL_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_VENLI" Name="LOC_LEADER_VENLI_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_TEZIM" Name="LOC_LEADER_TEZIM_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_SEKEIR" Name="LOC_LEADER_SEKEIR_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ODIUM" Name="LOC_LEADER_ODIUM_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+	
+	<LoadingInfo>
+		<Row LeaderType="LEADER_ELHOKAR_KHOLIN" ForegroundImage="LEADER_ELHOKAR_KHOLIN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_DALINAR_KHOLIN" ForegroundImage="LEADER_DALINAR_KHOLIN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_TOROL_SADEAS" ForegroundImage="LEADER_TOROL_SADEAS_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_JASNAH_KHOLIN" ForegroundImage="LEADER_JASNAH_KHOLIN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_YANAGAWN" ForegroundImage="LEADER_YANAGAWN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_TARAVANGIAN" ForegroundImage="LEADER_TARAVANGIAN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_VALAM" ForegroundImage="LEADER_VALAM_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_FEN_RNAMDI" ForegroundImage="LEADER_FEN_RNAMDI_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_STONE_SHAMAN" ForegroundImage="LEADER_STONE_SHAMAN_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_ESHONAI" ForegroundImage="LEADER_ESHONAI_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_RABONIEL" ForegroundImage="LEADER_RABONIEL_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_VENLI" ForegroundImage="LEADER_VENLI_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_TEZIM" ForegroundImage="LEADER_TEZIM_NEUTRAL" BackgroundImage="MYStorm_Roshar_Loading_Background"/>
+		<Row LeaderType="LEADER_SEKEIR" ForegroundImage="LEADER_SEKEIR_NEUTRAL" BackgroundImage="MYStorm_Shadesmar_Loading_Background"/>
+		<Row LeaderType="LEADER_ODIUM" ForegroundImage="LEADER_ODIUM_NEUTRAL" BackgroundImage="MYStorm_Shadesmar_Loading_Background"/>
+
+	</LoadingInfo>
+	
+	<DiplomacyInfo>
+		<Row Type="LEADER_ELHOKAR_KHOLIN" BackgroundImage="LEADER_ELHOKAR_KHOLIN_BACKGROUND"/>
+		<Row Type="LEADER_DALINAR_KHOLIN" BackgroundImage="LEADER_DALINAR_KHOLIN_BACKGROUND"/>
+		<Row Type="LEADER_TOROL_SADEAS" BackgroundImage="LEADER_TOROL_SADEAS_BACKGROUND"/>
+		<Row Type="LEADER_JASNAH_KHOLIN" BackgroundImage="LEADER_JASNAH_KHOLIN_BACKGROUND"/>
+		<Row Type="LEADER_YANAGAWN" BackgroundImage="LEADER_YANAGAWN_BACKGROUND"/>
+		<Row Type="LEADER_TARAVANGIAN" BackgroundImage="LEADER_TARAVANGIAN_BACKGROUND"/>
+		<Row Type="LEADER_VALAM" BackgroundImage="LEADER_VALAM_BACKGROUND"/>
+		<Row Type="LEADER_FEN_RNAMDI" BackgroundImage="LEADER_FEN_RNAMDI_BACKGROUND"/>
+		<Row Type="LEADER_STONE_SHAMAN" BackgroundImage="LEADER_STONE_SHAMAN_BACKGROUND"/>
+		<Row Type="LEADER_ESHONAI" BackgroundImage="LEADER_ESHONAI_BACKGROUND"/>
+		<Row Type="LEADER_RABONIEL" BackgroundImage="LEADER_RABONIEL_BACKGROUND"/>
+		<Row Type="LEADER_VENLI" BackgroundImage="LEADER_VENLI_BACKGROUND"/>
+		<Row Type="LEADER_TEZIM" BackgroundImage="LEADER_TEZIM_BACKGROUND"/>
+		<Row Type="LEADER_SEKEIR" BackgroundImage="LEADER_SEKEIR_BACKGROUND"/>
+		<Row Type="LEADER_ODIUM" BackgroundImage="LEADER_ODIUM_BACKGROUND"/>
+
+	</DiplomacyInfo>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_ELHOKAR_KHOLIN" TraitType="TRAIT_LEADER_VENGEANCE_PACT"/>
+		<Row LeaderType="LEADER_DALINAR_KHOLIN" TraitType="TRAIT_LEADER_THE_WAY_OF_KINGS"/>
+		<Row LeaderType="LEADER_TOROL_SADEAS" TraitType="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION"/>
+		<Row LeaderType="LEADER_JASNAH_KHOLIN" TraitType="TRAIT_LEADER_ELSECALLING"/>
+		<Row LeaderType="LEADER_YANAGAWN" TraitType="TRAIT_LEADER_PRIME_AQASIX"/>
+		<Row LeaderType="LEADER_TARAVANGIAN" TraitType="TRAIT_LEADER_THE_DIAGRAM"/>
+		<Row LeaderType="LEADER_VALAM" TraitType="TRAIT_LEADER_VEDEN_PRINCE"/>
+		<Row LeaderType="LEADER_FEN_RNAMDI" TraitType="TRAIT_LEADER_BRIGHTNESS"/>
+		<Row LeaderType="LEADER_STONE_SHAMAN" TraitType="TRAIT_LEADER_SPIRITS_OF_STONES"/>
+		<Row LeaderType="LEADER_ESHONAI" TraitType="TRAIT_LEADER_COUNCIL_OF_FIVE"/>
+		<Row LeaderType="LEADER_RABONIEL" TraitType="TRAIT_LEADER_LADY_OF_WISHES"/>
+		<Row LeaderType="LEADER_VENLI" TraitType="TRAIT_LEADER_TIMBRE"/>
+		<Row LeaderType="LEADER_TEZIM" TraitType="TRAIT_LEADER_HERALD_OF_LUCK"/>
+		<Row LeaderType="LEADER_SEKEIR" TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR"/>
+		<Row LeaderType="LEADER_ODIUM" TraitType="TRAIT_LEADER_RAYSE"/>
+
+		<Row LeaderType="LEADER_ESHONAI" TraitType="TRAIT_CIVILIZATION_DISTRICT_LISTENERS_FORMS_STUDY"/>
+		<Row LeaderType="LEADER_VENLI" TraitType="TRAIT_CIVILIZATION_DISTRICT_LISTENERS_FORMS_STUDY"/>
+
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_VENGEANCE_PACT" Name="LOC_TRAIT_VENGEANCE_PACT_NAME" Description="LOC_TRAIT_VENGEANCE_PACT_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_WAY_OF_KINGS" Name="LOC_TRAIT_THE_WAY_OF_KINGS_NAME" Description="LOC_TRAIT_THE_WAY_OF_KINGS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION" Name="LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_NAME" Description="LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" Name="LOC_TRAIT_ELSECALLING_NAME" Description="LOC_TRAIT_ELSECALLING_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_PRIME_AQASIX" Name="LOC_TRAIT_PRIME_AQASIX_NAME" Description="LOC_TRAIT_PRIME_AQASIX_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_DIAGRAM" Name="LOC_TRAIT_THE_DIAGRAM_NAME" Description="LOC_TRAIT_THE_DIAGRAM_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_VEDEN_PRINCE" Name="LOC_TRAIT_VEDEN_PRINCE_NAME" Description="LOC_TRAIT_VEDEN_PRINCE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_BRIGHTNESS" Name="LOC_TRAIT_BRIGHTNESS_NAME" Description="LOC_TRAIT_BRIGHTNESS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" Name="LOC_TRAIT_SPIRITS_OF_STONES_NAME" Description="LOC_TRAIT_SPIRITS_OF_STONES_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_COUNCIL_OF_FIVE" Name="LOC_TRAIT_COUNCIL_OF_FIVE_NAME" Description="LOC_TRAIT_COUNCIL_OF_FIVE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_LADY_OF_WISHES" Name="LOC_TRAIT_LADY_OF_WISHES_NAME" Description="LOC_TRAIT_LADY_OF_WISHES_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" Name="LOC_TRAIT_TIMBRE_NAME" Description="LOC_TRAIT_TIMBRE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_HERALD_OF_LUCK" Name="LOC_TRAIT_HERALD_OF_LUCK_NAME" Description="LOC_TRAIT_HERALD_OF_LUCK_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" Name="LOC_TRAIT_SPLINTER_OF_HONOR_NAME" Description="LOC_TRAIT_SPLINTER_OF_HONOR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_RAYSE" Name="LOC_TRAIT_RAYSE_NAME" Description="LOC_TRAIT_RAYSE_DESCRIPTION"/>
+
+		<Row TraitType="TRAIT_CIVILIZATION_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_TRAIT_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_TRAIT_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION"/>
+		
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_VENGEANCE_PACT" ModifierId="TRAIT_MYSTORM_COMBAT_BONUS_PER_LUXURY"/>
+		<Row TraitType="TRAIT_LEADER_VENGEANCE_PACT" ModifierId="TRAIT_MYSTORM_OWNED_LUXURY_EXTRA_AMENITIES"/>
+		<Row TraitType="TRAIT_LEADER_ADVENTURES_ENKIDU" ModifierId="TRAIT_MYSTORM_ADJUST_JOINTWAR_EXPERIENCE"/>
+		<Row TraitType="TRAIT_LEADER_ADVENTURES_ENKIDU" ModifierId="TRAIT_MYSTORM_ADJUST_JOINTWAR_PLUNDER"/>
+		<Row TraitType="TRAIT_LEADER_ADVENTURES_ENKIDU" ModifierId="TRAIT_MYSTORM_COMBAT_BONUS_CONQUER_CONTINENT"/>
+		<Row TraitType="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION" ModifierId="MYSTORM_UNIT_MAINTENANCE_DISCOUNT"/>
+		<Row TraitType="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION" ModifierId="MYSTORM_WAR_DISCOUNT"/>
+		<Row TraitType="TRAIT_LEADER_HIGHPRINCE_OF_INFORMATION" ModifierId="TRAIT_MYSTORM_CAPTURE_AS_WORKERS"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" ModifierId="TRAIT_MYSTORM_CIVIC_BOOST"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" ModifierId="TRAIT_MYSTORM_TECHNOLOGY_BOOST"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" ModifierId="TRAIT_MYSTORM_CIVIC_BOOST_WONDER_ERA"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" ModifierId="TRAIT_MYSTORM_TECHNOLOGY_BOOST_WONDER_ERA"/>
+		<Row TraitType="TRAIT_LEADER_ELSECALLING" ModifierId="TRAIT_MYSTORM_DOUBLE_ARCHAEOLOGY_SLOTS"/>
+		<Row TraitType="TRAIT_LEADER_PRIME_AQASIX" ModifierId="MYSTORM_INFLUENCE_POINTS"/>
+		<Row TraitType="TRAIT_LEADER_THE_DIAGRAM" ModifierId="TRAIT_MYSTORM_WILDCARD_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_THE_DIAGRAM" ModifierId="MYSTORM_UNIQUE_LEADER_ADD_VISIBILITY"/>
+		<Row TraitType="TRAIT_LEADER_THE_DIAGRAM" ModifierId="MYSTORM_UNIQUE_LEADER_ADD_SPY_CAPACITY"/>
+		<Row TraitType="TRAIT_LEADER_VEDEN_PRINCE" ModifierId="MYSTORM_TRAIT_CULTURE_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_VEDEN_PRINCE" ModifierId="MYSTORM_TRAIT_GOLD_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_BRIGHTNESS" ModifierId="TRAIT_MYSTORM_EXTRA_DISTRICT_EACH_CITY"/>
+		<Row TraitType="TRAIT_LEADER_BRIGHTNESS" ModifierId="TRAIT_MYSTORM_INTERNATIONAL_TRADE_GAIN_GOLD"/>
+		<Row TraitType="TRAIT_LEADER_BRIGHTNESS" ModifierId="TRAIT_MYSTORM_INCOMING_TRADE_GAIN_GOLD"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_ADD_FAITH_TO_ALL_MINES"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_ADD_FAITH_TO_ALL_QUARRY"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN"/>
+		<Row TraitType="TRAIT_LEADER_SPIRITS_OF_STONES" ModifierId="TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN"/>
+		<Row TraitType="TRAIT_LEADER_COUNCIL_OF_FIVE" ModifierId="MYSTORM_TRAIT_CULTURE_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_COUNCIL_OF_FIVE" ModifierId="TRAIT_MYSTORM_ADJUST_PROGRESS_DIFF_TRADE_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_LADY_OF_WISHES" ModifierId="TRAIT_MYSTORM_MILITARY_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_LADY_OF_WISHES" ModifierId="TRAIT_MYSTORM_COMBAT_BONUS_CITY_STATES"/>
+		<Row TraitType="TRAIT_LEADER_LADY_OF_WISHES" ModifierId="MYSTORM_TRAIT_SCIENCE_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="MYSTORM_DOUBLELIBRARY"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_AUTOCRACY_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_OLIGARCHY_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_CLASSICAL_REPUBLIC_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_MONARCHY_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_THEOCRACY_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_MERCHANT_REPUBLIC_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_FASCISM_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_COMMUNISM_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_TIMBRE" ModifierId="TRAIT_MYSTORM_DEMOCRACY_BONUS_RATE"/>
+		<Row TraitType="TRAIT_LEADER_HERALD_OF_LUCK" ModifierId="TRAIT_MYSTORM_ADJUST_INQUISITOR_CHARGES"/>
+		<Row TraitType="TRAIT_LEADER_HERALD_OF_LUCK" ModifierId="TRAIT_MYSTORM_COMBAT_BONUS_OTHER_RELIGION"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE"/>
+		<Row TraitType="TRAIT_LEADER_SPLINTER_OF_HONOR" ModifierId="TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_RAYSE" ModifierId="TRAIT_MYSTORM_FREE_MELEE_UNIT_NON_HOME_CONTINENT"/>
+		<Row TraitType="TRAIT_LEADER_RAYSE" ModifierId="TRAIT_MYSTORM_MILITARY_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_RAYSE" ModifierId="MYSTORM_WAR_DISCOUNT"/>
+		
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_PER_LUXURY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_PER_LUXURY_ATTACK_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_OWNED_LUXURY_EXTRA_AMENITIES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_OWNED_LUXURY_EXTRA_AMENITIES</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_JOINTWAR_EXPERIENCE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_JOINTWAR_EXPERIENCE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_JOINTWAR_PLUNDER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_JOINTWAR_PLUNDER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_CONQUER_CONTINENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_PLOT_IS_FOREIGN_CONTINENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_MAINTENANCE_DISCOUNT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_UNIT_MAINTENANCE_DISCOUNT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_DISCOUNT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CAPTURE_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CIVIC_BOOST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_CIVIC_BOOST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_TECHNOLOGY_BOOST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TECHNOLOGY_BOOST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CIVIC_BOOST_WONDER_ERA</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_FREE_CIVIC_BOOST_WONDER_ERA</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_TECHNOLOGY_BOOST_WONDER_ERA</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_FREE_TECH_BOOST_WONDER_ERA</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DOUBLE_ARCHAEOLOGY_SLOTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_EXTRA_GREAT_WORK_SLOTS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_INFLUENCE_POINTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_INFLUENCE_POINTS_PER_TURN</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_VISIBILITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADD_DIPLO_VISIBILITY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_SPY_CAPACITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GRANT_SPY</ModifierType>
+			<SubjectRequirementSetId>PLAYER_HAS_CASTLES_TECHNOLOGY</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_CULTURE_KILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_GOLD_KILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_EXTRA_DISTRICT_EACH_CITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_EXTRA_DISTRICT</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_MINES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_PLOT_HAS_MINE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_QUARRY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYSTORM_PLOT_HAS_QUARRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<ModifierType>MODIFIER_ALL_CITIES_TERRAIN_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_PROGRESS_DIFF_TRADE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PROGRESS_DIFF_TRADE_BONUS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_CITY_STATES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_GRANT_ABILITY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_SCIENCE_KILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_DOUBLELIBRARY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_AUTOCRACY_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_OLIGARCHY_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CLASSICAL_REPUBLIC_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MONARCHY_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MERCHANT_REPUBLIC_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_THEOCRACY_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DEMOCRACY_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_FASCISM_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMMUNISM_BONUS_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_GOVERNMENT_ADJUST_BONUS_RATE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_INQUISITOR_CHARGES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_SPREAD_CHARGES</ModifierType>
+			<SubjectRequirementSetId>UNIT_IS_INQUISITOR</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_GRANT_ABILITY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_GRANT_UNIT_BY_CLASS</ModifierType>
+			<Permanent>true</Permanent>
+			<SubjectRequirementSetId>CITY_FOUNDED_ON_NON_HOME_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_PER_LUXURY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_OWNED_LUXURY_EXTRA_AMENITIES</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_JOINTWAR_EXPERIENCE</ModifierId>
+			<Name>Range</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_JOINTWAR_PLUNDER</ModifierId>
+			<Name>Multiplier</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_CONQUER_CONTINENT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIT_MAINTENANCE_DISCOUNT</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_DISCOUNT</ModifierId>
+			<Name>Amount</Name>
+			<Value>-60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_WAR_DISCOUNT</ModifierId>
+			<Name>Overall</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CAPTURE_AS_WORKERS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYSTORM_CAPTURE_COMBAT_UNITS_AS_WORKERS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CIVIC_BOOST</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_TECHNOLOGY_BOOST</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CIVIC_BOOST_WONDER_ERA</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_TECHNOLOGY_BOOST_WONDER_ERA</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DOUBLE_ARCHAEOLOGY_SLOTS</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MUSEUM_ARTIFACT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DOUBLE_ARCHAEOLOGY_SLOTS</ModifierId>
+			<Name>GreatWorkSlotType</Name>
+			<Value>GREATWORKSLOT_ARTIFACT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DOUBLE_ARCHAEOLOGY_SLOTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_INFLUENCE_POINTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_WILDCARD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_VISIBILITY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_VISIBILITY</ModifierId>
+			<Name>Source</Name>
+			<Value>SOURCE_TRAIT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_VISIBILITY</ModifierId>
+			<Name>SourceType</Name>
+			<Value>DIPLO_SOURCE_FEMALE_ONLY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_UNIQUE_LEADER_ADD_SPY_CAPACITY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_CULTURE_KILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_CULTURE_KILLS</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_GOLD_KILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_GOLD_KILLS</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_EXTRA_DISTRICT_EACH_CITY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Intercontinental</Name>
+			<Value>false</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_MINES</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_MINES</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_QUARRY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADD_FAITH_TO_ALL_QUARRY</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_GRASS_MOUNTAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_GRASS_MOUNTAIN</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_PLAINS_MOUNTAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_PLAINS_MOUNTAIN</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_DESERT_MOUNTAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_DESERT_MOUNTAIN</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_TUNDRA_MOUNTAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_TUNDRA_MOUNTAIN</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<Name>TerrainType</Name>
+			<Value>TERRAIN_SNOW_MOUNTAIN</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_HOLY_SITE_ADJACENCY_SNOW_MOUNTAIN</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_PROGRESS_DIFF_TRADE_BONUS</ModifierId>
+			<Name>TechCivicsPerYield</Name>
+			<Value>3</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_CITY_STATES</ModifierId>
+			<Name>AbilityType</Name>
+			<Value>ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_SCIENCE_KILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_TRAIT_SCIENCE_KILLS</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_DOUBLELIBRARY</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_LIBRARY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_DOUBLELIBRARY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSTORM_DOUBLELIBRARY</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_AUTOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_AUTOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_WONDER_CONSTRUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_OLIGARCHY_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_OLIGARCHY_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_COMBAT_EXPERIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CLASSICAL_REPUBLIC_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_CLASSICAL_REPUBLIC_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_GREAT_PEOPLE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MONARCHY_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MONARCHY_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_ENVOYS</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_THEOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_THEOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_FAITH_PURCHASES</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MERCHANT_REPUBLIC_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_MERCHANT_REPUBLIC_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_GOLD_PURCHASES</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_FASCISM_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_FASCISM_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_UNIT_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMMUNISM_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMMUNISM_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_OVERALL_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DEMOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusRate</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_DEMOCRACY_BONUS_RATE</ModifierId>
+			<Name>BonusType</Name>
+			<Value>GOVERNMENTBONUS_DISTRICT_PROJECTS</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJUST_INQUISITOR_CHARGES</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<Name>AbilityType</Name>
+			<Value>ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HOLY_SITE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HOLYSITE_ADJACENCYFAITH</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_CAMPUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_CAMPUS_ADJACENCYSCIENCE</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_HARBOR</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_HARBOR_ADJACENCYGOLD</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COMMERCIAL_HUB</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_COMMERCIALHUB_ADJACENCYGOLD</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_THEATER</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_THEATER_ADJACENCYCULTURE</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_CULTURE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_INDUSTRIAL_ZONE</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_ADJACENT_DISTRICTS_INDUSTRIALZONE_ADJACENCYPRODUCTION</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_DISTRICT_DISTRICT_1_PRODUCTION</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSTORM_FREE_MELEE_UNIT_NON_HOME_CONTINENT</ModifierId>
+			<Name>UnitPromotionClassType</Name>
+			<Value>PROMOTION_CLASS_MELEE</Value>
+		</Row>
+	</ModifierArguments>
+	
+	<ModifierStrings>
+		<Row ModifierId="COMBAT_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER" Context="Preview" Text="LOC_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER_DESCRIPTION"/>
+	</ModifierStrings>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_IS_FOREIGN_CONTINENT</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_HAS_MINE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_HAS_QUARRY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_IS_FOREIGN_CONTINENT</RequirementSetId>
+			<RequirementId>NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_HAS_MINE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_MINE</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYSTORM_PLOT_HAS_QUARRY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_QUARRY</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_MINE</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_QUARRY</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_MINE</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_MINE</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYSTORM_REQUIRES_PLOT_HAS_QUARRY</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_QUARRY</Value>
+		</Row>
+	</RequirementArguments>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_ELHOKAR_KHOLIN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ELHOKAR_KHOLIN_QUOTE"/>
+		<Row LeaderType="LEADER_DALINAR_KHOLIN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_DALINAR_KHOLIN_QUOTE"/>
+		<Row LeaderType="LEADER_TOROL_SADEAS" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_TOROL_SADEAS_QUOTE"/>
+		<Row LeaderType="LEADER_JASNAH_KHOLIN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_JASNAH_KHOLIN_QUOTE"/>
+		<Row LeaderType="LEADER_YANAGAWN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_YANAGAWN_QUOTE"/>
+		<Row LeaderType="LEADER_TARAVANGIAN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_TARAVANGIAN_QUOTE"/>
+		<Row LeaderType="LEADER_VALAM" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_VALAM_QUOTE"/>
+		<Row LeaderType="LEADER_FEN_RNAMDI" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_FEN_RNAMDI_QUOTE"/>
+		<Row LeaderType="LEADER_ESHONAI" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ESHONAI_QUOTE"/>
+		<Row LeaderType="LEADER_RABONIEL" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_RABONIEL_QUOTE"/>
+		<Row LeaderType="LEADER_VENLI" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_VENLI_QUOTE"/>
+		<Row LeaderType="LEADER_TEZIM" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_TEZIM_QUOTE"/>
+		<Row LeaderType="LEADER_SEKEIR" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_SEKEIR_QUOTE"/>
+		<Row LeaderType="LEADER_ODIUM" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ODIUM_QUOTE"/>
+
+
+	</LeaderQuotes>
+</GameData>

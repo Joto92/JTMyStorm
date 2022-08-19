@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<!-- 
+		  				Nale
+-->
+	<Types>
+		<Row Type="RELIGION_VORINISM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_TAI_NA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_STONE_SHAMANISM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_CULTIVATION" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ODIUM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_HONOR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ISHAR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_RHYTHMS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_JEZRIEN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_NALE" Kind="KIND_RELIGION" />
+
+	</Types>
+	<Religions>
+		<Row ReligionType="RELIGION_VORINISM" Name="LOC_RELIGION_VORINISM" Iconstring="Vo" RequiresCustomName="0" Color="COLOR_RELIGION_VORINISM"/>
+		<Row ReligionType="RELIGION_TAI_NA" Name="LOC_RELIGION_TAI_NA" Iconstring="TN" RequiresCustomName="0" Color="COLOR_RELIGION_TAI_NA"/>
+		<Row ReligionType="RELIGION_STONE_SHAMANISM" Name="LOC_RELIGION_STONE_SHAMANISM" Iconstring="St" RequiresCustomName="0" Color="COLOR_RELIGION_STONE_SHAMANISM"/>
+		<Row ReligionType="RELIGION_CULTIVATION" Name="LOC_RELIGION_CULTIVATION" Iconstring="Cl" RequiresCustomName="0" Color="COLOR_RELIGION_CULTIVATION"/>
+		<Row ReligionType="RELIGION_ODIUM" Name="LOC_RELIGION_ODIUM" Iconstring="Od" RequiresCustomName="0" Color="COLOR_RELIGION_ODIUM"/>
+		<Row ReligionType="RELIGION_HONOR" Name="LOC_RELIGION_HONOR" Iconstring="Hn" RequiresCustomName="0" Color="COLOR_RELIGION_HONOR"/>
+		<Row ReligionType="RELIGION_ISHAR" Name="LOC_RELIGION_ISHAR" Iconstring="Is" RequiresCustomName="0" Color="COLOR_RELIGION_ISHAR"/>
+		<Row ReligionType="RELIGION_RHYTHMS" Name="LOC_RELIGION_RHYTHMS" Iconstring="Rt" RequiresCustomName="0" Color="COLOR_RELIGION_RHYTHMS"/>
+		<Row ReligionType="RELIGION_JEZRIEN" Name="LOC_RELIGION_JEZRIEN" Iconstring="Jz" RequiresCustomName="0" Color="COLOR_RELIGION_JEZRIEN"/>
+		<Row ReligionType="RELIGION_NALE" Name="LOC_RELIGION_NALE" Iconstring="Nl" RequiresCustomName="0" Color="COLOR_RELIGION_NALE"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_ELHOKAR_KHOLIN" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_TOROL_SADEAS" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_JASNAH_KHOLIN" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_TARAVANGIAN" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_VALAM" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_FEN_RNAMDI" ReligionType="RELIGION_VORINISM" />
+		<Row LeaderType="LEADER_STONE_SHAMAN" ReligionType="RELIGION_STONE_SHAMANISM" />
+		<Row LeaderType="LEADER_ODIUM" ReligionType="RELIGION_ODIUM" />
+		<Row LeaderType="LEADER_RABONIEL" ReligionType="RELIGION_ODIUM" />
+		<Row LeaderType="LEADER_DALINAR_KHOLIN" ReligionType="RELIGION_HONOR" />
+		<Row LeaderType="LEADER_SEKEIR" ReligionType="RELIGION_HONOR" />
+		<Row LeaderType="LEADER_TEZIM" ReligionType="RELIGION_ISHAR" />
+		<Row LeaderType="LEADER_ESHONAI" ReligionType="RELIGION_RHYTHMS" />
+		<Row LeaderType="LEADER_VENLI" ReligionType="RELIGION_RHYTHMS" />
+		<Row LeaderType="LEADER_YANAGAWN" ReligionType="RELIGION_JEZRIEN" />
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_VORINISM</Type>
+			<Color>77,59,53,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_TAI_NA</Type>
+			<Color>161,161,169,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_STONE_SHAMANISM</Type>
+			<Color>158,107,169,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_CULTIVATION</Type>
+			<Color>24,155,37,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ODIUM</Type>
+			<Color>131,53,153,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_HONOR</Type>
+			<Color>67,94,153,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ISHAR</Type>
+			<Color>255,216,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_RHYTHMS</Type>
+			<Color>255,109,109,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_JEZRIEN</Type>
+			<Color>28,54,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_NALE</Type>
+			<Color>128,128,128,255</Color>
+		</Row>
+	</Colors>
+</GameData>

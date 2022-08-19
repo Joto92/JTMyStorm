@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_ELHOKAR_KHOLIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ELHOKAR_KHOLIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELHOKAR_KHOLIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ELHOKAR_KHOLIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MYStorm_Roshar_Loading_Background"/>
+			<m_ObjectName text="MYStorm_Roshar_Loading_Background"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DALINAR_KHOLIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DALINAR_KHOLIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DALINAR_KHOLIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DALINAR_KHOLIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TOROL_SADEAS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TOROL_SADEAS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TOROL_SADEAS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TOROL_SADEAS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JASNAH_KHOLIN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JASNAH_KHOLIN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JASNAH_KHOLIN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_JASNAH_KHOLIN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_YANAGAWN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_YANAGAWN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_YANAGAWN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_YANAGAWN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TARAVANGIAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TARAVANGIAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TARAVANGIAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TARAVANGIAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VALAM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VALAM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VALAM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VALAM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FEN_RNAMDI_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FEN_RNAMDI_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FEN_RNAMDI_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FEN_RNAMDI_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_STONE_SHAMAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_STONE_SHAMAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_STONE_SHAMAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_STONE_SHAMAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESHONAI_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ESHONAI_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESHONAI_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ESHONAI_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RABONIEL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RABONIEL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RABONIEL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RABONIEL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VENLI_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VENLI_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VENLI_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VENLI_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TEZIM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TEZIM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TEZIM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TEZIM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SEKEIR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SEKEIR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SEKEIR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SEKEIR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MYStorm_Shadesmar_Loading_Background"/>
+			<m_ObjectName text="MYStorm_Shadesmar_Loading_Background"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ODIUM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ODIUM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ODIUM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ODIUM_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

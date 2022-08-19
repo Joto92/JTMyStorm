@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_ELHOKAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELHOKAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VENGEANCE_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VENGEANCE_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELHOKAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_DALINAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DALINAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_WAY_OF_KINGS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_WAY_OF_KINGS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_DALINAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_TOROL_SADEAS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOROL_SADEAS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOROL_SADEAS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOROL_SADEAS</LeaderAbilityIcon>
+			<Portrait>LEADER_TOROL_SADEAS_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_JASNAH_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JASNAH_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELSECALLING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELSECALLING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_JASNAH_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AZIR</CivilizationType>
+			<LeaderType>LEADER_YANAGAWN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AZIR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AZIR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YANAGAWN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YANAGAWN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AZISH_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AZISH_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AZIR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRIME_AQASIX_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRIME_AQASIX_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YANAGAWN</LeaderAbilityIcon>
+			<Portrait>LEADER_YANAGAWN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_TARAVANGIAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TARAVANGIAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TARAVANGIAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DIAGRAM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DIAGRAM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TARAVANGIAN</LeaderAbilityIcon>
+			<Portrait>LEADER_TARAVANGIAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_VALAM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VALAM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VALAM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VEDEN_PRINCE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VEDEN_PRINCE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VALAM</LeaderAbilityIcon>
+			<Portrait>LEADER_VALAM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_THAYLENAH</CivilizationType>
+			<LeaderType>LEADER_FEN_RNAMDI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THAYLENAH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FEN_RNAMDI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FEN_RNAMDI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BABSK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BABSK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BRIGHTNESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BRIGHTNESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FEN_RNAMDI</LeaderAbilityIcon>
+			<Portrait>LEADER_FEN_RNAMDI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHINOVAR</CivilizationType>
+			<LeaderType>LEADER_STONE_SHAMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHINOVAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_STONE_SHAMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_STONE_SHAMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SHINOVAR_FARMLAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SHINOVAR_FARMLAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPIRITS_OF_STONES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPIRITS_OF_STONES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_STONE_SHAMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_STONE_SHAMAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_ESHONAI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHONAI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHONAI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_COUNCIL_OF_FIVE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_COUNCIL_OF_FIVE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHONAI</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHONAI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_RABONIEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RABONIEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RABONIEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_WISHES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_WISHES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RABONIEL</LeaderAbilityIcon>
+			<Portrait>LEADER_RABONIEL_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_VENLI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VENLI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VENLI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIMBRE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIMBRE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VENLI</LeaderAbilityIcon>
+			<Portrait>LEADER_VENLI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TUKAR</CivilizationType>
+			<LeaderType>LEADER_TEZIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TUKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TUKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TEZIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TEZIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_EIGHTY_S_WAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_EIGHTY_S_WAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TUKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HERALD_OF_LUCK_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HERALD_OF_LUCK_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TEZIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TEZIM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HONORSPREN</CivilizationType>
+			<LeaderType>LEADER_SEKEIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HONORSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SEKEIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SEKEIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_HONORSPREN_MORALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_HONORSPREN_MORALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPLINTER_OF_HONOR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPLINTER_OF_HONOR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SEKEIR</LeaderAbilityIcon>
+			<Portrait>LEADER_SEKEIR_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_VOIDSPREN</CivilizationType>
+			<LeaderType>LEADER_ODIUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VOIDSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ODIUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ODIUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SPLINTERS_OF_ODIUM_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SPLINTERS_OF_ODIUM_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RAYSE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RAYSE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ODIUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ODIUM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_ELHOKAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELHOKAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VENGEANCE_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VENGEANCE_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELHOKAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_DALINAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DALINAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_WAY_OF_KINGS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_WAY_OF_KINGS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_DALINAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_TOROL_SADEAS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOROL_SADEAS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOROL_SADEAS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOROL_SADEAS</LeaderAbilityIcon>
+			<Portrait>LEADER_TOROL_SADEAS_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_JASNAH_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JASNAH_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELSECALLING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELSECALLING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_JASNAH_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AZIR</CivilizationType>
+			<LeaderType>LEADER_YANAGAWN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AZIR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AZIR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YANAGAWN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YANAGAWN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AZISH_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AZISH_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AZIR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRIME_AQASIX_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRIME_AQASIX_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YANAGAWN</LeaderAbilityIcon>
+			<Portrait>LEADER_YANAGAWN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_TARAVANGIAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TARAVANGIAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TARAVANGIAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DIAGRAM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DIAGRAM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TARAVANGIAN</LeaderAbilityIcon>
+			<Portrait>LEADER_TARAVANGIAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_VALAM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VALAM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VALAM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VEDEN_PRINCE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VEDEN_PRINCE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VALAM</LeaderAbilityIcon>
+			<Portrait>LEADER_VALAM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_THAYLENAH</CivilizationType>
+			<LeaderType>LEADER_FEN_RNAMDI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THAYLENAH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FEN_RNAMDI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FEN_RNAMDI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BABSK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BABSK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BRIGHTNESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BRIGHTNESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FEN_RNAMDI</LeaderAbilityIcon>
+			<Portrait>LEADER_FEN_RNAMDI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHINOVAR</CivilizationType>
+			<LeaderType>LEADER_STONE_SHAMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHINOVAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_STONE_SHAMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_STONE_SHAMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SHINOVAR_FARMLAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SHINOVAR_FARMLAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPIRITS_OF_STONES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPIRITS_OF_STONES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_STONE_SHAMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_STONE_SHAMAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_ESHONAI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHONAI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHONAI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_COUNCIL_OF_FIVE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_COUNCIL_OF_FIVE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHONAI</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHONAI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_RABONIEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RABONIEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RABONIEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_WISHES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_WISHES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RABONIEL</LeaderAbilityIcon>
+			<Portrait>LEADER_RABONIEL_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_VENLI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VENLI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VENLI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIMBRE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIMBRE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VENLI</LeaderAbilityIcon>
+			<Portrait>LEADER_VENLI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TUKAR</CivilizationType>
+			<LeaderType>LEADER_TEZIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TUKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TUKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TEZIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TEZIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_EIGHTY_S_WAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_EIGHTY_S_WAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TUKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HERALD_OF_LUCK_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HERALD_OF_LUCK_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TEZIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TEZIM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HONORSPREN</CivilizationType>
+			<LeaderType>LEADER_SEKEIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HONORSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SEKEIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SEKEIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_HONORSPREN_MORALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_HONORSPREN_MORALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPLINTER_OF_HONOR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPLINTER_OF_HONOR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SEKEIR</LeaderAbilityIcon>
+			<Portrait>LEADER_SEKEIR_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_VOIDSPREN</CivilizationType>
+			<LeaderType>LEADER_ODIUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VOIDSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ODIUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ODIUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SPLINTERS_OF_ODIUM_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SPLINTERS_OF_ODIUM_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RAYSE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RAYSE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ODIUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ODIUM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_ELHOKAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELHOKAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VENGEANCE_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VENGEANCE_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELHOKAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELHOKAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_DALINAR_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DALINAR_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_WAY_OF_KINGS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_WAY_OF_KINGS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DALINAR_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_DALINAR_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_TOROL_SADEAS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOROL_SADEAS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOROL_SADEAS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIGHPRINCE_OF_INFORMATION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOROL_SADEAS</LeaderAbilityIcon>
+			<Portrait>LEADER_TOROL_SADEAS_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALETHKAR</CivilizationType>
+			<LeaderType>LEADER_JASNAH_KHOLIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALETHKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JASNAH_KHOLIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TRANQUILINE_HALLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TRANQUILINE_HALLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALETHKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELSECALLING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELSECALLING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JASNAH_KHOLIN</LeaderAbilityIcon>
+			<Portrait>LEADER_JASNAH_KHOLIN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AZIR</CivilizationType>
+			<LeaderType>LEADER_YANAGAWN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AZIR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AZIR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YANAGAWN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YANAGAWN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AZISH_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AZISH_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AZIR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRIME_AQASIX_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRIME_AQASIX_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YANAGAWN</LeaderAbilityIcon>
+			<Portrait>LEADER_YANAGAWN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_TARAVANGIAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TARAVANGIAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TARAVANGIAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_DIAGRAM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_DIAGRAM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TARAVANGIAN</LeaderAbilityIcon>
+			<Portrait>LEADER_TARAVANGIAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_JAH_KEVED</CivilizationType>
+			<LeaderType>LEADER_VALAM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_JAH_KEVED_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VALAM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VALAM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_HOLY_ENCLAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_HOLY_ENCLAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_JAH_KEVED</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_VEDEN_PRINCE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_VEDEN_PRINCE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VALAM</LeaderAbilityIcon>
+			<Portrait>LEADER_VALAM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_THAYLENAH</CivilizationType>
+			<LeaderType>LEADER_FEN_RNAMDI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THAYLENAH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FEN_RNAMDI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FEN_RNAMDI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BABSK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BABSK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THAYLENAH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BRIGHTNESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BRIGHTNESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FEN_RNAMDI</LeaderAbilityIcon>
+			<Portrait>LEADER_FEN_RNAMDI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHINOVAR</CivilizationType>
+			<LeaderType>LEADER_STONE_SHAMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHINOVAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_STONE_SHAMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_STONE_SHAMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SHINOVAR_FARMLAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SHINOVAR_FARMLAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHINOVAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPIRITS_OF_STONES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPIRITS_OF_STONES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_STONE_SHAMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_STONE_SHAMAN_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_ESHONAI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHONAI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHONAI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_COUNCIL_OF_FIVE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_COUNCIL_OF_FIVE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHONAI</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHONAI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_RABONIEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RABONIEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RABONIEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_WISHES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_WISHES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RABONIEL</LeaderAbilityIcon>
+			<Portrait>LEADER_RABONIEL_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SINGERS</CivilizationType>
+			<LeaderType>LEADER_VENLI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SINGERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SINGERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VENLI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VENLI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FORMS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FORMS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SINGERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIMBRE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIMBRE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VENLI</LeaderAbilityIcon>
+			<Portrait>LEADER_VENLI_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TUKAR</CivilizationType>
+			<LeaderType>LEADER_TEZIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TUKAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TUKAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TEZIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TEZIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_EIGHTY_S_WAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_EIGHTY_S_WAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TUKAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HERALD_OF_LUCK_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HERALD_OF_LUCK_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TEZIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TEZIM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Roshar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_HONORSPREN</CivilizationType>
+			<LeaderType>LEADER_SEKEIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HONORSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SEKEIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SEKEIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_HONORSPREN_MORALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_HONORSPREN_MORALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HONORSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SPLINTER_OF_HONOR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SPLINTER_OF_HONOR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SEKEIR</LeaderAbilityIcon>
+			<Portrait>LEADER_SEKEIR_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_VOIDSPREN</CivilizationType>
+			<LeaderType>LEADER_ODIUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VOIDSPREN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ODIUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ODIUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SPLINTERS_OF_ODIUM_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SPLINTERS_OF_ODIUM_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VOIDSPREN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RAYSE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RAYSE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ODIUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ODIUM_NEUTRAL</Portrait>
+			<PortraitBackground>MYStorm_Shadesmar_Loading_Background</PortraitBackground>
+		</Row>
+
+	</Players>
+
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="UNIT_KATTARIS_SWORDSMAN" Icon="ICON_UNIT_KATTARIS_SWORDSMAN" Name="LOC_UNIT_KATTARIS_SWORDSMAN_NAME" Description="LOC_UNIT_KATTARIS_SWORDSMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="BUILDING_VIZIER_COURT" Icon="ICON_BUILDING_VIZIER_COURT" Name="LOC_BUILDING_VIZIER_COURT_NAME" Description="LOC_BUILDING_VIZIER_COURT_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="BUILDING_TARAVANGIAN_HOSPITAL" Icon="ICON_BUILDING_TARAVANGIAN_HOSPITAL" Name="LOC_BUILDING_TARAVANGIAN_HOSPITAL_NAME" Description="LOC_BUILDING_TARAVANGIAN_HOSPITAL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="UNIT_THAYLEN_SHIP" Icon="ICON_UNIT_THAYLEN_SHIP" Name="LOC_UNIT_THAYLEN_SHIP_NAME" Description="LOC_UNIT_THAYLEN_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="BUILDING_GEMSTONE_RESERVE" Icon="ICON_BUILDING_GEMSTONE_RESERVE" Name="LOC_BUILDING_GEMSTONE_RESERVE_NAME" Description="LOC_BUILDING_GEMSTONE_RESERVE_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="UNIT_SHIN_LANCERS" Icon="ICON_UNIT_SHIN_LANCERS" Name="LOC_UNIT_SHIN_LANCERS_NAME" Description="LOC_UNIT_SHIN_LANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="IMPROVEMENT_STONE_SHRINE" Icon="ICON_IMPROVEMENT_STONE_SHRINE" Name="LOC_IMPROVEMENT_STONE_SHRINE_NAME" Description="LOC_IMPROVEMENT_STONE_SHRINE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="UNIT_GOD_PRIEST_GUARD" Icon="ICON_UNIT_GOD_PRIEST_GUARD" Name="LOC_UNIT_GOD_PRIEST_GUARD_NAME" Description="LOC_UNIT_GOD_PRIEST_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="BUILDING_ISHAR_TEMPLE" Icon="ICON_BUILDING_ISHAR_TEMPLE" Name="LOC_BUILDING_ISHAR_TEMPLE_NAME" Description="LOC_BUILDING_ISHAR_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="UNIT_MANDRAS_SHIP" Icon="ICON_UNIT_MANDRAS_SHIP" Name="LOC_UNIT_MANDRAS_SHIP_NAME" Description="LOC_UNIT_MANDRAS_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="BUILDING_INVESTITURE_STOREROOM" Icon="ICON_BUILDING_INVESTITURE_STOREROOM" Name="LOC_BUILDING_INVESTITURE_STOREROOM_NAME" Description="LOC_BUILDING_INVESTITURE_STOREROOM_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="UNIT_KATTARIS_SWORDSMAN" Icon="ICON_UNIT_KATTARIS_SWORDSMAN" Name="LOC_UNIT_KATTARIS_SWORDSMAN_NAME" Description="LOC_UNIT_KATTARIS_SWORDSMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="BUILDING_VIZIER_COURT" Icon="ICON_BUILDING_VIZIER_COURT" Name="LOC_BUILDING_VIZIER_COURT_NAME" Description="LOC_BUILDING_VIZIER_COURT_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="BUILDING_TARAVANGIAN_HOSPITAL" Icon="ICON_BUILDING_TARAVANGIAN_HOSPITAL" Name="LOC_BUILDING_TARAVANGIAN_HOSPITAL_NAME" Description="LOC_BUILDING_TARAVANGIAN_HOSPITAL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="UNIT_THAYLEN_SHIP" Icon="ICON_UNIT_THAYLEN_SHIP" Name="LOC_UNIT_THAYLEN_SHIP_NAME" Description="LOC_UNIT_THAYLEN_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="BUILDING_GEMSTONE_RESERVE" Icon="ICON_BUILDING_GEMSTONE_RESERVE" Name="LOC_BUILDING_GEMSTONE_RESERVE_NAME" Description="LOC_BUILDING_GEMSTONE_RESERVE_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="UNIT_SHIN_LANCERS" Icon="ICON_UNIT_SHIN_LANCERS" Name="LOC_UNIT_SHIN_LANCERS_NAME" Description="LOC_UNIT_SHIN_LANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="IMPROVEMENT_STONE_SHRINE" Icon="ICON_IMPROVEMENT_STONE_SHRINE" Name="LOC_IMPROVEMENT_STONE_SHRINE_NAME" Description="LOC_IMPROVEMENT_STONE_SHRINE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="UNIT_GOD_PRIEST_GUARD" Icon="ICON_UNIT_GOD_PRIEST_GUARD" Name="LOC_UNIT_GOD_PRIEST_GUARD_NAME" Description="LOC_UNIT_GOD_PRIEST_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="BUILDING_ISHAR_TEMPLE" Icon="ICON_BUILDING_ISHAR_TEMPLE" Name="LOC_BUILDING_ISHAR_TEMPLE_NAME" Description="LOC_BUILDING_ISHAR_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="UNIT_MANDRAS_SHIP" Icon="ICON_UNIT_MANDRAS_SHIP" Name="LOC_UNIT_MANDRAS_SHIP_NAME" Description="LOC_UNIT_MANDRAS_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="BUILDING_INVESTITURE_STOREROOM" Icon="ICON_BUILDING_INVESTITURE_STOREROOM" Name="LOC_BUILDING_INVESTITURE_STOREROOM_NAME" Description="LOC_BUILDING_INVESTITURE_STOREROOM_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_ELHOKAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_DALINAR_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_TOROL_SADEAS" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="UNIT_SHARDBEARER" Icon="ICON_UNIT_SHARDBEARER" Name="LOC_UNIT_SHARDBEARER_NAME" Description="LOC_UNIT_SHARDBEARER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALETHKAR" LeaderType="LEADER_JASNAH_KHOLIN" Type="DISTRICT_ALETHI_WARCAMP" Icon="ICON_DISTRICT_ALETHI_WARCAMP" Name="LOC_DISTRICT_ALETHI_WARCAMP_NAME" Description="LOC_DISTRICT_ALETHI_WARCAMP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="UNIT_KATTARIS_SWORDSMAN" Icon="ICON_UNIT_KATTARIS_SWORDSMAN" Name="LOC_UNIT_KATTARIS_SWORDSMAN_NAME" Description="LOC_UNIT_KATTARIS_SWORDSMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AZIR" LeaderType="LEADER_YANAGAWN" Type="BUILDING_VIZIER_COURT" Icon="ICON_BUILDING_VIZIER_COURT" Name="LOC_BUILDING_VIZIER_COURT_NAME" Description="LOC_BUILDING_VIZIER_COURT_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_TARAVANGIAN" Type="BUILDING_TARAVANGIAN_HOSPITAL" Icon="ICON_BUILDING_TARAVANGIAN_HOSPITAL" Name="LOC_BUILDING_TARAVANGIAN_HOSPITAL_NAME" Description="LOC_BUILDING_TARAVANGIAN_HOSPITAL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="UNIT_HALFSHARD" Icon="ICON_UNIT_HALFSHARD" Name="LOC_UNIT_HALFSHARD_NAME" Description="LOC_UNIT_HALFSHARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_JAH_KEVED" LeaderType="LEADER_VALAM" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="UNIT_THAYLEN_SHIP" Icon="ICON_UNIT_THAYLEN_SHIP" Name="LOC_UNIT_THAYLEN_SHIP_NAME" Description="LOC_UNIT_THAYLEN_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="IMPROVEMENT_VORIN_TEMPLE" Icon="ICON_IMPROVEMENT_VORIN_TEMPLE" Name="LOC_IMPROVEMENT_VORIN_TEMPLE_NAME" Description="LOC_IMPROVEMENT_VORIN_TEMPLE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THAYLENAH" LeaderType="LEADER_FEN_RNAMDI" Type="BUILDING_GEMSTONE_RESERVE" Icon="ICON_BUILDING_GEMSTONE_RESERVE" Name="LOC_BUILDING_GEMSTONE_RESERVE_NAME" Description="LOC_BUILDING_GEMSTONE_RESERVE_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="UNIT_SHIN_LANCERS" Icon="ICON_UNIT_SHIN_LANCERS" Name="LOC_UNIT_SHIN_LANCERS_NAME" Description="LOC_UNIT_SHIN_LANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHINOVAR" LeaderType="LEADER_STONE_SHAMAN" Type="IMPROVEMENT_STONE_SHRINE" Icon="ICON_IMPROVEMENT_STONE_SHRINE" Name="LOC_IMPROVEMENT_STONE_SHRINE_NAME" Description="LOC_IMPROVEMENT_STONE_SHRINE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_ESHONAI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_RABONIEL" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SINGERS" LeaderType="LEADER_VENLI" Type="DISTRICT_LISTENERS_FORMS_STUDY" Icon="ICON_DISTRICT_LISTENERS_FORMS_STUDY" Name="LOC_DISTRICT_LISTENERS_FORMS_STUDY_NAME" Description="LOC_DISTRICT_LISTENERS_FORMS_STUDY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="UNIT_GOD_PRIEST_GUARD" Icon="ICON_UNIT_GOD_PRIEST_GUARD" Name="LOC_UNIT_GOD_PRIEST_GUARD_NAME" Description="LOC_UNIT_GOD_PRIEST_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TUKAR" LeaderType="LEADER_TEZIM" Type="BUILDING_ISHAR_TEMPLE" Icon="ICON_BUILDING_ISHAR_TEMPLE" Name="LOC_BUILDING_ISHAR_TEMPLE_NAME" Description="LOC_BUILDING_ISHAR_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="UNIT_MANDRAS_SHIP" Icon="ICON_UNIT_MANDRAS_SHIP" Name="LOC_UNIT_MANDRAS_SHIP_NAME" Description="LOC_UNIT_MANDRAS_SHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HONORSPREN" LeaderType="LEADER_SEKEIR" Type="BUILDING_INVESTITURE_STOREROOM" Icon="ICON_BUILDING_INVESTITURE_STOREROOM" Name="LOC_BUILDING_INVESTITURE_STOREROOM_NAME" Description="LOC_BUILDING_INVESTITURE_STOREROOM_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_WAR_FORM" Icon="ICON_UNIT_WAR_FORM" Name="LOC_UNIT_WAR_FORM_NAME" Description="LOC_UNIT_WAR_FORM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="UNIT_SHANAY_IM_FUSED" Icon="ICON_UNIT_SHANAY_IM_FUSED" Name="LOC_UNIT_SHANAY_IM_FUSED_NAME" Description="LOC_UNIT_SHANAY_IM_FUSED_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VOIDSPREN" LeaderType="LEADER_ODIUM" Type="IMPROVEMENT_HIGH_CHAMBERS" Icon="ICON_IMPROVEMENT_HIGH_CHAMBERS" Name="LOC_IMPROVEMENT_HIGH_CHAMBERS_NAME" Description="LOC_IMPROVEMENT_HIGH_CHAMBERS_DESCRIPTION" SortIndex="30"/>
+
+	</PlayerItems>
+</GameData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Districts_XP2>
+		<Row DistrictType="DISTRICT_ALETHI_WARCAMP" AttackRange="2"/>
+	</Districts_XP2>
+</GameInfo>

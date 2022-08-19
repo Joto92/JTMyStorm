@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_PROMOTION_MYSTORM_COMBAT_HOME_CONTINENT_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat on home continent.</Text>
+		</Row>
+		<Row Tag="LOC_MYSTORM_BONUS_CONQUER_CONTINENT_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 Combat on foreign continent.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_ALETHI_WARCAMP_CULTURE_MAJOR"  Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_ALETHI_WARCAMP_GOLD_MAJOR"  Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_MYSTORM_DISTRICT_MOUNTAIN_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Mountain</Text>
+		</Row>
+		<!-- ALETHKAR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELHOKAR_KHOLIN" Language="en_US">
+			<Text>Elhokar Kholin was King of Alethkar, son of former King Gavilar and former Queen Navani. As long as Elhokar ruled, the highprinces got to fight in the war their way and fatten their purses. He didn't make many demands of them. They liked having him as their king.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DALINAR_KHOLIN" Language="en_US">
+			<Text>Dalinar Kholin is the king of Urithiru and was a famous former Shardbearer. During his youth, he helped his brother, King Gavilar, to unite Alethkar, then a country of ten individual princedoms. His prowess in battle was enough to earn him the singular title of The Blackthorn.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOROL_SADEAS" Language="en_US">
+			<Text>Torol Sadeas is an Alethi Highprince on Roshar. Through a number of successful battles fought alongside Gavilar and Dalinar Kholin, he became one of the most powerful men in the Kingdom. Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife Ialai, they take care of inconvenient people. He commands one of the two most significant armies on the Shattered Plains, the other being the army of Dalinar Kholin.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JASNAH_KHOLIN" Language="en_US">
+			<Text>Jasnah Kholin is the queen of Alethkar on Roshar. She is known widely as a brilliant scholar and for her denunciation of Vorinism. She is a member of the Veristitalians, an order of historians dedicated to reconstructing unbiased and factual accounts of the past in order to better understand the present.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHOLINAR" Language="en_US" Text="Kholinar"/>
+		<Row Tag="LOC_CITY_NAME_DALILAK" Language="en_US" Text="Dalilak"/>
+		<Row Tag="LOC_CITY_NAME_REVOLAR" Language="en_US" Text="Revolar"/>
+		<Row Tag="LOC_CITY_NAME_DUMADARI" Language="en_US" Text="Dumadari"/>
+		<Row Tag="LOC_CITY_NAME_RELANAS" Language="en_US" Text="Relanas"/>
+		<Row Tag="LOC_CITY_NAME_VARIKEV" Language="en_US" Text="Varikev"/>
+		<Row Tag="LOC_CITY_NAME_FARCOAST" Language="en_US" Text="Farcoast"/>
+		<Row Tag="LOC_CITY_NAME_KELATHAR" Language="en_US" Text="Kelathar"/>
+		<Row Tag="LOC_CITY_NAME_DANIDAN" Language="en_US" Text="Danidan"/>
+		<Row Tag="LOC_CITY_NAME_SHULIN" Language="en_US" Text="Shulin"/>
+		<Row Tag="LOC_CITY_NAME_TOMAT" Language="en_US" Text="Tomat"/>
+		<Row Tag="LOC_CITY_NAME_SAVALASHI" Language="en_US" Text="Savalashi"/>
+		<Row Tag="LOC_CITY_NAME_MOURNS_VAULT" Language="en_US" Text="Mourn's Vault"/>
+		<Row Tag="LOC_CITY_NAME_HEARTHSTONE" Language="en_US" Text="Hearthstone"/>
+		<Row Tag="LOC_CITY_NAME_SHAMEL" Language="en_US" Text="Shamel"/>
+		<Row Tag="LOC_CITY_NAME_RATHALAS" Language="en_US" Text="Rathalas"/>
+		<Row Tag="LOC_CITY_NAME_DARKHILL" Language="en_US" Text="Darkhill"/>
+		<Row Tag="LOC_CITY_NAME_RASHIR" Language="en_US" Text="Rashir"/>
+		<Row Tag="LOC_CITY_NAME_DAVINAR" Language="en_US" Text="Davinar"/>
+		<Row Tag="LOC_CITY_NAME_KARANAK" Language="en_US" Text="Karanak"/>
+		<Row Tag="LOC_CITY_NAME_THE_PINNACLE" Language="en_US" Text="The Pinnacle"/>
+		<Row Tag="LOC_CITY_NAME_STRINGKEN" Language="en_US" Text="Stringken"/>
+		<Row Tag="LOC_CITY_NAME_TALINAR" Language="en_US" Text="Talinar"/>
+		<Row Tag="LOC_CITY_NAME_URITHIRU" Language="en_US" Text="Urithiru"/>
+		<Row Tag="LOC_CITY_NAME_HOBBLEKEN" Language="en_US" Text="Hobbleken"/>
+		<Row Tag="LOC_CITY_NAME_HORNHOLLOW" Language="en_US" Text="Hornhollow"/>
+		<Row Tag="LOC_CITY_NAME_INKWELL" Language="en_US" Text="Inkwell"/>
+		<Row Tag="LOC_CITY_NAME_SHORSEBROON" Language="en_US" Text="Shorsebroon"/>
+		<Row Tag="LOC_CITY_NAME_VEDELLIAR" Language="en_US" Text="Vedelliar"/>
+		<Row Tag="LOC_CITY_NAME_ALADAR_HOLD" Language="en_US" Text="Aladar Hold"/>
+		<Row Tag="LOC_CITY_NAME_VAMAH_HOLD" Language="en_US" Text="Vamah Hold"/>
+		<Row Tag="LOC_CITY_NAME_RUTHAR_HOLD" Language="en_US" Text="Ruthar Hold"/>
+		<Row Tag="LOC_CITY_NAME_ROION_HOLD" Language="en_US" Text="Roion Hold"/>
+		<Row Tag="LOC_CITY_NAME_THANADAL_HOLD" Language="en_US" Text="Thanadal Hold"/>
+		<Row Tag="LOC_CITY_NAME_HATHAM_HOLD" Language="en_US" Text="Hatham Hold"/>
+		<Row Tag="LOC_CITY_NAME_BETHAB_HOLD" Language="en_US" Text="Bethab Hold"/>
+		<Row Tag="LOC_CITY_NAME_SEBARIAL_HOLD" Language="en_US" Text="Sebarial Hold"/>
+		<Row Tag="LOC_CITY_NAME_KHOLIN_HOLD" Language="en_US" Text="Kholin Hold"/>
+		<Row Tag="LOC_CITY_NAME_SADEAS_HOLD" Language="en_US" Text="Sadeas Hold"/>
+		<Row Tag="LOC_CITY_NAME_KORON" Language="en_US" Text="Koron"/>
+		<Row Tag="LOC_CITY_NAME_VEHAH" Language="en_US" Text="Vehah"/>
+		<!-- AZIR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_YANAGAWN" Language="en_US">
+			<Text>Yanagawn is the name of the current Prime Aqasix of Azir, First of his name, emperor of all Makabak. As time passed, his confidence evolved, and by the time they left Urithiru, he wasn’t embarrassed talking to the viziers and scions any longer. He understood much of what they discussed now.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AZIMIR" Language="en_US" Text="Azimir"/>
+		<Row Tag="LOC_CITY_NAME_ZAWFIX" Language="en_US" Text="Zawfix"/>
+		<Row Tag="LOC_CITY_NAME_ZODRUF" Language="en_US" Text="Zodruf"/>
+		<Row Tag="LOC_CITY_NAME_MAZZU" Language="en_US" Text="Mazzu"/>
+		<Row Tag="LOC_CITY_NAME_OWD" Language="en_US" Text="Owd"/>
+		<Row Tag="LOC_CITY_NAME_BENRU" Language="en_US" Text="Benru"/>
+		<Row Tag="LOC_CITY_NAME_HAZZEL" Language="en_US" Text="Hazzel"/>
+		<Row Tag="LOC_CITY_NAME_BERQQ" Language="en_US" Text="Berqq"/>
+		<Row Tag="LOC_CITY_NAME_LAQQI" Language="en_US" Text="Laqqi"/>
+		<Row Tag="LOC_CITY_NAME_IFABA" Language="en_US" Text="Ifaba"/>
+		<Row Tag="LOC_CITY_NAME_HOLIQQIL" Language="en_US" Text="Holiqqil"/>
+		<Row Tag="LOC_CITY_NAME_YEDDAW" Language="en_US" Text="Yeddaw"/>
+		<Row Tag="LOC_CITY_NAME_BERIZHET" Language="en_US" Text="Berizhet"/>
+		<Row Tag="LOC_CITY_NAME_YEZIER" Language="en_US" Text="Yezier"/>
+		<Row Tag="LOC_CITY_NAME_DESH" Language="en_US" Text="Desh"/>
+		<Row Tag="LOC_CITY_NAME_ALM" Language="en_US" Text="Alm"/>
+		<Row Tag="LOC_CITY_NAME_STEEN" Language="en_US" Text="Steen"/>
+		<Row Tag="LOC_CITY_NAME_ASKARIKI" Language="en_US" Text="Askarki"/>
+		<Row Tag="LOC_CITY_NAME_YUANAZIXIN" Language="en_US" Text="Yuanazixin"/>
+		<!-- JAH KEVED-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TARAVANGIAN" Language="en_US">
+			<Text>Taravangian is the king of Kharbranth. He is the leader of the secret society known as "the Diagram" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius. Publicly, he appears to be a kindly, philanthropic, but ultimately dim man. However, these features are merely skin deep, as he hides dark secrets behind this visage.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_VALAM" Language="en_US">
+			<Text>Valam was Highprince of Vedenar. Highprince Valam was a major combatant in Jah Keved's war of succession.  Although he was eventually able to defeat opposing factions and become the king of Jah Keved, succeeding Hanavanar.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VEDENAR" Language="en_US" Text="Vedenar"/>
+		<Row Tag="LOC_CITY_NAME_VALATH" Language="en_US" Text="Valath"/>
+		<Row Tag="LOC_CITY_NAME_SILNASEN" Language="en_US" Text="Silnasen"/>
+		<Row Tag="LOC_CITY_NAME_NORTHGRIP" Language="en_US" Text="Northgrip"/>
+		<Row Tag="LOC_CITY_NAME_ELANAR" Language="en_US" Text="Elanar"/>
+		<Row Tag="LOC_CITY_NAME_KNEESPIKE" Language="en_US" Text="Kneespike"/>
+		<Row Tag="LOC_CITY_NAME_IRONSWAY" Language="en_US" Text="Ironsway"/>
+		<Row Tag="LOC_CITY_NAME_JOKASHA" Language="en_US" Text="Jokasha"/>
+		<Row Tag="LOC_CITY_NAME_BORNWATER" Language="en_US" Text="Bornwater"/>
+		<Row Tag="LOC_CITY_NAME_STAPLIND" Language="en_US" Text="Staplind"/>
+		<Row Tag="LOC_CITY_NAME_ABRIAL_HOLD" Language="en_US" Text="Abrial Hold"/>
+		<Row Tag="LOC_CITY_NAME_BORIAR_HOLD" Language="en_US" Text="Boriar Hold"/>
+		<Row Tag="LOC_CITY_NAME_URIAN_HOLD" Language="en_US" Text="Urian Hold"/>
+		<Row Tag="LOC_CITY_NAME_HANAVANAR_HOLD" Language="en_US" Text="Hanavanar Hold"/>
+		<Row Tag="LOC_CITY_NAME_EVINOR_HOLD" Language="en_US" Text="Evinor Hold"/>
+		<Row Tag="LOC_CITY_NAME_JAL_MALA_HOLD" Language="en_US" Text="Jal Mala Hold"/>
+		<Row Tag="LOC_CITY_NAME_DAVAR_HOLD" Language="en_US" Text="Davar Hold"/>
+		<Row Tag="LOC_CITY_NAME_GEVELMAR_HOLD" Language="en_US" Text="Gevelmar Hold"/>
+		<Row Tag="LOC_CITY_NAME_TAVINAR_HOLD" Language="en_US" Text="Tavinar Hold"/>
+		<Row Tag="LOC_CITY_NAME_VALAM_HOLD" Language="en_US" Text="Valam Hold"/>
+		<Row Tag="LOC_CITY_NAME_REVILAR_HOLD" Language="en_US" Text="Revilar Hold"/>
+		<Row Tag="LOC_CITY_NAME_NANHAR" Language="en_US" Text="NanHar"/>
+		<Row Tag="LOC_CITY_NAME_NANKHET" Language="en_US" Text="NanKhet"/>
+		<Row Tag="LOC_CITY_NAME_ULATU" Language="en_US" Text="Ulatu"/>
+		<Row Tag="LOC_CITY_NAME_VAKAMA" Language="en_US" Text="Vakama"/>
+		<Row Tag="LOC_CITY_NAME_KHARBRANTH" Language="en_US" Text="Kharbranth"/>
+		<!-- THAYLENAH-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FEN_RNAMDI" Language="en_US">
+			<Text>Her Royal Highness, Brightness Fen Rnamdi is the Queen of Thaylenah. Fen is a skilled politician who understands strategy and interaction with other kingdoms.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THAYLEN" Language="en_US" Text="Thaylen"/>
+		<Row Tag="LOC_CITY_NAME_KLNA" Language="en_US" Text="Klna"/>
+		<Row Tag="LOC_CITY_NAME_AMYDLATN" Language="en_US" Text="Amydlatn"/>
+		<Row Tag="LOC_CITY_NAME_VTLAR" Language="en_US" Text="Vtlar"/>
+		<Row Tag="LOC_CITY_NAME_VRIZTL" Language="en_US" Text="Vriztl"/>
+		<Row Tag="LOC_CITY_NAME_KDISLN" Language="en_US" Text="Kdisln"/>
+		<Row Tag="LOC_CITY_NAME_ESTNATIL_HOLD" Language="en_US" Text="Estnatil Hold"/>
+		<Row Tag="LOC_CITY_NAME_RNAMDI_HOLD" Language="en_US" Text="Rnamdi Hold"/>
+		<Row Tag="LOC_CITY_NAME_HRDALM_HOLD" Language="en_US" Text="Hrdalm Hold"/>
+		<Row Tag="LOC_CITY_NAME_TSHADR_HOLD" Language="en_US" Text="Tshadr Hold"/>
+		<Row Tag="LOC_CITY_NAME_REBSK" Language="en_US" Text="Rebsk"/>
+		<Row Tag="LOC_CITY_NAME_BABSK" Language="en_US" Text="Babsk"/>
+		<Row Tag="LOC_CITY_NAME_CVADERLYN" Language="en_US" Text="Cvaderln"/>
+		<Row Tag="LOC_CITY_NAME_KDRALK_HOLD" Language="en_US" Text="Kdralk Hold"/>
+		<!-- SHINOVAR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_STONE_SHAMAN" Language="en_US">
+			<Text>Stone Shamanism is the only known religion practiced in Shinovar. It is led by a group of Stone Shamans, also known as the Shamanate. The shamans are thought to be able to communicate with the spirits of stones.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHINOVAR" Language="en_US" Text="Shinovar"/>
+		<Row Tag="LOC_CITY_NAME_VALLEY_OF_TRUTH" Language="en_US" Text="Valley of Truth"/>
+		<Row Tag="LOC_CITY_NAME_AMOSZTHA" Language="en_US" Text="Amosztha"/>
+		<Row Tag="LOC_CITY_NAME_KAMMAR" Language="en_US" Text="Kammar"/>
+		<Row Tag="LOC_CITY_NAME_HASWETH" Language="en_US" Text="Hasweth"/>
+		<Row Tag="LOC_CITY_NAME_METHISTA" Language="en_US" Text="Methista"/>
+		<Row Tag="LOC_CITY_NAME_ASTHTA" Language="en_US" Text="Asthta"/>
+		<Row Tag="LOC_CITY_NAME_NAVAMMIS" Language="en_US" Text="Navammis"/>
+		<Row Tag="LOC_CITY_NAME_GASHASH" Language="en_US" Text="Gashash"/>
+		<Row Tag="LOC_CITY_NAME_ZENT" Language="en_US" Text="Zent"/>
+		<Row Tag="LOC_CITY_NAME_MALAD" Language="en_US" Text="Malad"/>
+		<Row Tag="LOC_CITY_NAME_SHALIV" Language="en_US" Text="Shaliv"/>
+		<Row Tag="LOC_CITY_NAME_MASHA" Language="en_US" Text="Masha"/>
+		<Row Tag="LOC_CITY_NAME_KUZODO" Language="en_US" Text="Kuzodo"/>
+		<Row Tag="LOC_CITY_NAME_SHAUKA" Language="en_US" Text="Shauka"/>
+		<Row Tag="LOC_CITY_NAME_MASHALAN" Language="en_US" Text="Mashalan"/>
+		<Row Tag="LOC_CITY_NAME_SHUBRETH" Language="en_US" Text="Shubreth"/>
+		<Row Tag="LOC_CITY_NAME_THRESH" Language="en_US" Text="Thresh"/>
+		<Row Tag="LOC_CITY_NAME_VATH" Language="en_US" Text="Vath"/>
+		<!-- SINGERS-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ESHONAI" Language="en_US">
+			<Text>Eshonai is a listener Shardbearer who lives in Narak on the Shattered Plains of Roshar during the War of Reckoning. She was one of the first Parshendi to come in contact with Gavilar Kholin's soldiers in the Unclaimed Hills. Eshonai became a member of the Council of Five and was made the general of the listener army.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RABONIEL" Language="en_US">
+			<Text>Raboniel is one of the Fused scholars on Roshar. She organizes the operation for the Fused occupation of Urithiru. As a scholar, Raboniel is perhaps the most knowledgeable of any Fused regarding fabrials and Lights.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_VENLI" Language="en_US">
+			<Text>Venli is one of the leading Parshendi scholars and performs this task while in nimbleform, as methods for attaining scholarform have been lost. Venli knows much about the forms, and much of her research is held only in her head.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARAK" Language="en_US" Text="Narak"/>
+		<Row Tag="LOC_CITY_NAME_DARK_HOME" Language="en_US" Text="Dark Home"/>
+		<Row Tag="LOC_CITY_NAME_FIRST_RHYTHM" Language="en_US" Text="First-Rhythm"/>
+		<Row Tag="LOC_CITY_NAME_LIVING_SONGS" Language="en_US" Text="Living-Songs"/>
+		<Row Tag="LOC_CITY_NAME_PURE_SONG" Language="en_US" Text="Pure-Song"/>
+		<Row Tag="LOC_CITY_NAME_FOURTH_MOVEMENT" Language="en_US" Text="Fourth-Movement"/>
+		<Row Tag="LOC_CITY_NAME_AVENDLA" Language="en_US" Text="Avendla"/>
+		<!-- LOC_CITY_NAME_KHOLINAR -->
+		<Row Tag="LOC_CITY_NAME_JA_DRAN" Language="en_US" Text="Ja Dran"/>
+		<Row Tag="LOC_CITY_NAME_JABOM" Language="en_US" Text="Jabom"/>
+		<Row Tag="LOC_CITY_NAME_KHRISHJI" Language="en_US" Text="Khrishji"/>
+		<Row Tag="LOC_CITY_NAME_LEXILI" Language="en_US" Text="Lexili"/>
+		<Row Tag="LOC_CITY_NAME_MIKHAN" Language="en_US" Text="Mikhan"/>
+		<Row Tag="LOC_CITY_NAME_RALL_ELORIM" Language="en_US" Text="Rall Elorim"/>
+		<Row Tag="LOC_CITY_NAME_KASITOR" Language="en_US" Text="Kasitor"/>
+		<Row Tag="LOC_CITY_NAME_EILA" Language="en_US" Text="Eila"/>
+		<Row Tag="LOC_CITY_NAME_RU_PARAT" Language="en_US" Text="Ru Parat"/>
+		<Row Tag="LOC_CITY_NAME_SESEMALEX_DAR" Language="en_US" Text="Sesemalex Dar"/>
+		<Row Tag="LOC_CITY_NAME_FU_ABRA" Language="en_US" Text="Fu Abra"/>
+		<Row Tag="LOC_CITY_NAME_FU_ALBAST" Language="en_US" Text="Fu Albast"/>
+		<Row Tag="LOC_CITY_NAME_FU_MOORIN" Language="en_US" Text="Fu Moorin"/>
+		<Row Tag="LOC_CITY_NAME_FU_NAMIR" Language="en_US" Text="Fu Namir"/>
+		<Row Tag="LOC_CITY_NAME_FU_RALIS" Language="en_US" Text="Fu Ralis"/>
+		<Row Tag="LOC_CITY_NAME_SWEEN" Language="en_US" Text="Sween"/>
+		<Row Tag="LOC_CITY_NAME_UARR_DION" Language="en_US" Text="Uarr Dion"/>
+		<Row Tag="LOC_CITY_NAME_YIAN_DIOR" Language="en_US" Text="Yian Dion"/>
+		<!-- TUKAR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TEZIM" Language="en_US">
+			<Text>Tezim is a warlord in Tukar who claims he's an aspect of the Almighty. He is the leader/god-priest of the Tukari people/religion.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUKAR" Language="en_US" Text="Tukar"/>
+		<Row Tag="LOC_CITY_NAME_LINDER_MAR" Language="en_US" Text="Linder Mar"/>
+		<Row Tag="LOC_CITY_NAME_RIQU_MAR" Language="en_US" Text="Riqu Mar"/>
+		<Row Tag="LOC_CITY_NAME_TORRIQQAM" Language="en_US" Text="Torriqqam"/>
+		<Row Tag="LOC_CITY_NAME_KHATHAZAN" Language="en_US" Text="Khathazan"/>
+		<Row Tag="LOC_CITY_NAME_ICEWATER" Language="en_US" Text="Icewater"/>
+		<!-- LOC_CITY_NAME_SESEMALEX_DAR -->
+		<Row Tag="LOC_CITY_NAME_ROSSEN_DAR" Language="en_US" Text="Rossen Dar"/>
+		<!-- LOC_CITY_NAME_KHRISHJI -->
+		<!-- LOC_CITY_NAME_HOLIQQIL -->
+		<!-- LOC_CITY_NAME_LEXILI -->
+		<!-- LOC_CITY_NAME_MIKHAN -->
+		<!-- HONORSPREN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SEKEIR" Language="en_US">
+			<Text>Sekeir is the honorspren who rules Lasting Integrity on Roshar. He is adamant that humans cannot be trusted.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LASTING_INTEGRITY" Language="en_US" Text="Lasting Integrity"/>
+		<Row Tag="LOC_CITY_NAME_UNYIELDING_FIDELITY" Language="en_US" Text="Unyielding Fidelity"/>
+		<Row Tag="LOC_CITY_NAME_JUSTICE_UNTARNISHED" Language="en_US" Text="Justice Untarnished"/>
+		<Row Tag="LOC_CITY_NAME_AGELESS_BEAUTY" Language="en_US" Text="Ageless Beauty"/>
+		<Row Tag="LOC_CITY_NAME_BRILLIANCE_ETERNAL" Language="en_US" Text="Brilliance Eternal"/>
+		<Row Tag="LOC_CITY_NAME_PERPETUAL_SOBRIETY" Language="en_US" Text="Perpetual Sobriety"/>
+		<Row Tag="LOC_CITY_NAME_ABIDING_LIGHT" Language="en_US" Text="Abiding Light"/>
+		<Row Tag="LOC_CITY_NAME_OATHBOUND_SPIRES" Language="en_US" Text="Oathbound Spires"/>
+		<Row Tag="LOC_CITY_NAME_FREELIGHT" Language="en_US" Text="Freelight"/>
+		<Row Tag="LOC_CITY_NAME_LUMINOUS_SHALLOWS" Language="en_US" Text="Luminous Shallows"/>
+		<!-- VOIDSPREN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ODIUM" Language="en_US">
+			<Text>Odium is the Shard of Adonalsium originally held by Rayse. Unlike most other Shards, which typically pick a single world and settle there, Odium has been traveling freely throughout the cosmere for a long time, deliberately refusing to Invest himself anywhere. In the present, he's confined to the planet Braize, but his influence can be felt on the entire Rosharan system.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRAIZE" Language="en_US" Text="Braize"/>
+		<Row Tag="LOC_CITY_NAME_NEXUS_OF_IMAGINATION" Language="en_US" Text="Nexus of Imagination"/>
+		<Row Tag="LOC_CITY_NAME_CARETAKER_OF_LAUGHTER" Language="en_US" Text="Caretaker of Laughter"/>
+		<Row Tag="LOC_CITY_NAME_CELERANT" Language="en_US" Text="Celebrant"/>
+		<Row Tag="LOC_CITY_NAME_BURNING_GARDENS" Language="en_US" Text="Burning Gardens"/>
+		<Row Tag="LOC_CITY_NAME_CANDLEMORE" Language="en_US" Text="Candlemore"/>
+		<Row Tag="LOC_CITY_NAME_EMBERDARK" Language="en_US" Text="Emberdark"/>
+		<Row Tag="LOC_CITY_NAME_RAVIZADTH" Language="en_US" Text="Ravizadth"/>
+		<Row Tag="LOC_CITY_NAME_GLASSWATER_DEEP" Language="en_US" Text="Glasswater Deep"/>
+		<Row Tag="LOC_CITY_NAME_NAMELESS" Language="en_US" Text="Nameless"/>
+		<Row Tag="LOC_CITY_NAME_SALUMON" Language="en_US" Text="Salumon"/>
+		<Row Tag="LOC_CITY_NAME_CULTIVATION_PERPENDICULARITY" Language="en_US" Text="Cultivation's Perpendicularity"/>
+		<Row Tag="LOC_CITY_NAME_NEXUS_OF_TRANSITION" Language="en_US" Text="Nexus of Transition"/>
+		<Row Tag="LOC_CITY_NAME_NEXUS_OF_TRUTH" Language="en_US" Text="Nexus of Truth	"/>
+		<!-- LOC_CITY_NAME_FREELIGHT -->
+		<!-- LOC_CITY_NAME_LUMINOUS_SHALLOWS -->
+		<!-- UNITS-->
+		<Row Tag="LOC_ABILITY_SHARDBEARER_DESCRIPTION"  Language="en_US">
+			<Text>+10 [ICON_GreatGeneral] Great General points for kills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KATTARIS_SWORDSMAN_DESCRIPTION"  Language="en_US">
+			<Text>When defeating an enemy unit on your [ICON_Capital] Capital's continent, gain [ICON_Culture] Culture equal to 50% that unit's base [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HALFSHARD_DESCRIPTION"  Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THAYLEN_SHIP_DESCRIPTION"  Language="en_US">
+			<Text>6 [ICON_Movement] Movement while in coastal waters.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WAR_FORM_DESCRIPTION"  Language="en_US">
+			<Text>+{1_Amount} [ICON_Strength] Combat Strength when next to another War Form</Text>
+		</Row>
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_VORINISM" Language="en_US" Text="Vorinism" />
+		<Row Tag="LOC_RELIGION_TAI_NA" Language="en_US" Text="Tai-na" />
+		<Row Tag="LOC_RELIGION_STONE_SHAMANISM" Language="en_US" Text="Stone Shamanism" />
+		<Row Tag="LOC_RELIGION_CULTIVATION" Language="en_US" Text="Cultivation" />
+		<Row Tag="LOC_RELIGION_ODIUM" Language="en_US" Text="Odium" />
+		<Row Tag="LOC_RELIGION_HONOR" Language="en_US" Text="Honor" />
+		<Row Tag="LOC_RELIGION_ISHAR" Language="en_US" Text="Ishar" />
+		<Row Tag="LOC_RELIGION_RHYTHMS" Language="en_US" Text="Rhythms" />
+		<Row Tag="LOC_RELIGION_JEZRIEN" Language="en_US" Text="Jezrien" />
+		<Row Tag="LOC_RELIGION_NALE" Language="en_US" Text="Nale" />
+
+	</LocalizedText>
+</GameData>

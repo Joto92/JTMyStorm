@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELHOKAR_KHOLIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELHOKAR_KHOLIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DALINAR_KHOLIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DALINAR_KHOLIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TOROL_SADEAS"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TOROL_SADEAS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_JASNAH_KHOLIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_JASNAH_KHOLIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_YANAGAWN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_YANAGAWN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TARAVANGIAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TARAVANGIAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_VALAM"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_VALAM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FEN_RNAMDI"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FEN_RNAMDI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_STONE_SHAMAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_STONE_SHAMAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ESHONAI"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ESHONAI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RABONIEL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RABONIEL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_VENLI"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_VENLI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TEZIM"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TEZIM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SEKEIR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SEKEIR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ODIUM"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ODIUM"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

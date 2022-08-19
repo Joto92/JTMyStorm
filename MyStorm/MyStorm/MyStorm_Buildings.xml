@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_VIZIER_COURT" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_TARAVANGIAN_HOSPITAL" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GEMSTONE_RESERVE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ISHAR_TEMPLE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_INVESTITURE_STOREROOM" Kind="KIND_BUILDING"/>
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_GEMSTONE_RESERVE" ReplacesBuildingType="BUILDING_BANK"/>
+		<Row CivUniqueBuildingType="BUILDING_ISHAR_TEMPLE" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_INVESTITURE_STOREROOM" ReplacesBuildingType="BUILDING_BANK"/>
+
+	</BuildingReplaces>
+	<Buildings>
+		<Row BuildingType="BUILDING_VIZIER_COURT" Name="LOC_BUILDING_VIZIER_COURT_NAME" Description="LOC_BUILDING_VIZIER_COURT_DESCRIPTION"  PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_SCIENCE" Cost="225" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="2" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_VIZIER_COURT"/>
+		<Row BuildingType="BUILDING_TARAVANGIAN_HOSPITAL" Name="LOC_BUILDING_TARAVANGIAN_HOSPITAL_NAME" Description="LOC_BUILDING_TARAVANGIAN_HOSPITAL_DESCRIPTION"  PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_SCIENCE" Cost="225" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_TARAVANGIAN_HOSPITAL"/>
+		<Row BuildingType="BUILDING_GEMSTONE_RESERVE" Name="LOC_BUILDING_GEMSTONE_RESERVE_NAME" Description="LOC_BUILDING_GEMSTONE_RESERVE_DESCRIPTION" PrereqTech="TECH_BANKING" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="290" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_GEMSTONE_RESERVE"/>
+		<Row BuildingType="BUILDING_ISHAR_TEMPLE" Name="LOC_BUILDING_ISHAR_TEMPLE_NAME" Description="LOC_BUILDING_ISHAR_TEMPLE_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="120" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_ISHAR_TEMPLE"/>
+		<Row BuildingType="BUILDING_INVESTITURE_STOREROOM" Name="LOC_BUILDING_INVESTITURE_STOREROOM_NAME"  Description="LOC_BUILDING_INVESTITURE_STOREROOM_DESCRIPTION" PrereqTech="TECH_BANKING" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="290" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_INVESTITURE_STOREROOM"/>
+	</Buildings>
+
+	<BuildingPrereqs>
+		<Row Building="BUILDING_GEMSTONE_RESERVE" PrereqBuilding="BUILDING_MARKET"/>
+		<Row Building="BUILDING_ISHAR_TEMPLE" PrereqBuilding="BUILDING_SHRINE"/>
+		<Row Building="BUILDING_INVESTITURE_STOREROOM" PrereqBuilding="BUILDING_MARKET"/>
+	</BuildingPrereqs>
+	
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_VIZIER_COURT" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_VIZIER_COURT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_TARAVANGIAN_HOSPITAL" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row BuildingType="BUILDING_TARAVANGIAN_HOSPITAL" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GEMSTONE_RESERVE" YieldType="YIELD_GOLD" YieldChange="7"/>
+		<Row BuildingType="BUILDING_ISHAR_TEMPLE" YieldType="YIELD_FAITH" YieldChange="5"/>
+		<Row BuildingType="BUILDING_ISHAR_TEMPLE" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_INVESTITURE_STOREROOM" YieldType="YIELD_GOLD" YieldChange="7"/>
+		<Row BuildingType="BUILDING_INVESTITURE_STOREROOM" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+	</Building_YieldChanges>
+
+	<Building_GreatWorks>
+		<Row BuildingType="BUILDING_VIZIER_COURT" GreatWorkSlotType="GREATWORKSLOT_WRITING" NumSlots="2"/>
+		<Row BuildingType="BUILDING_ISHAR_TEMPLE" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+		<Row BuildingType="BUILDING_INVESTITURE_STOREROOM" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="1"/>
+	</Building_GreatWorks>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_TARAVANGIAN_HOSPITAL" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_GEMSTONE_RESERVE" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_GEMSTONE_RESERVE" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_ISHAR_TEMPLE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_INVESTITURE_STOREROOM" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+	</Building_GreatPersonPoints>
+</GameData>
