@@ -792,7 +792,9 @@
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_FU_MOORIN"/>
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_FU_NAMIR"/>
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_FU_RALIS"/>
+		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_PANATHAM"/>
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_SWEEN"/>
+		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_DOMISTAR"/>
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_UARR_DION"/>
 		<Row CivilizationType="CIVILIZATION_SINGERS" CityName="LOC_CITY_NAME_YIAN_DIOR"/>
 

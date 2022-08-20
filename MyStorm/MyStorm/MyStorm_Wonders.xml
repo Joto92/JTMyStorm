@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Types>
+		<Row Type="FEATURE_WATER_OF_LIFE" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_THE_VALLEY" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SHATTERED_PLAINS" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_THE_RIFT" Kind="KIND_FEATURE"/>
+	</Types>
 
+	<Features>
+		<Row FeatureType="FEATURE_WATER_OF_LIFE" Name="LOC_FEATURE_WATER_OF_LIFE_NAME" Description="LOC_FEATURE_WATER_OF_LIFE_DESCRIPTION" Quote="LOC_FEATURE_WATER_OF_LIFE_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" AddsFreshWater="true" Lake="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THE_VALLEY" Name="LOC_FEATURE_THE_VALLEY_NAME" Description="LOC_FEATURE_THE_VALLEY_DESCRIPTION" Quote="LOC_FEATURE_THE_VALLEY_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="4" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" DefenseModifier="-2" MovementChange="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" Name="LOC_FEATURE_SHATTERED_PLAINS_NAME" Description="LOC_FEATURE_SHATTERED_PLAINS_DESCRIPTION" Quote="LOC_FEATURE_SHATTERED_PLAINS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="false" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THE_RIFT" Name="LOC_FEATURE_THE_RIFT_NAME" Description="LOC_FEATURE_THE_RIFT_DESCRIPTION" Quote="LOC_FEATURE_THE_RIFT_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8" CustomPlacement="PLACEMENT_YOSEMITE"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_WATER_OF_LIFE" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_WATER_OF_LIFE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_THE_VALLEY" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_THE_VALLEY" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_THE_RIFT" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_THE_RIFT" TerrainType="TERRAIN_TUNDRA"/>
+	</Feature_ValidTerrains>
+
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_WATER_OF_LIFE" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row FeatureType="FEATURE_THE_VALLEY" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_THE_RIFT" YieldType="YIELD_CULTURE" YieldChange="2"/>
+	</Feature_YieldChanges>
+
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_WATER_OF_LIFE" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_THE_VALLEY" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_SHATTERED_PLAINS" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_THE_RIFT" YieldType="YIELD_FOOD" YieldChange="2"/>
+	</Feature_AdjacentYields>
+	
 </GameData>

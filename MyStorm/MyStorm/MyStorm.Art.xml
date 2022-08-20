@@ -243,6 +243,7 @@
     <Element>
       <consumerName text="Features"/>
       <relativeArtDefPaths>
+		  <Element text="Features.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>

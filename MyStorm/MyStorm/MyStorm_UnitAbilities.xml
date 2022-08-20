@@ -13,6 +13,9 @@
 		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Kind="KIND_ABILITY"/>
 		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Kind="KIND_ABILITY"/>
 
+		<!--City States -->
+		<Row Type="ABILITY_MYSTORM_MELEE_HILLS_BONUS" Kind="KIND_ABILITY"/>
+		<!-- End City States-->
 	</Types>
 	
 	<TypeTags>
@@ -50,6 +53,9 @@
 		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_NAVAL_CARRIER"/>
 		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_RELIGIOUS_ALL"/>
 		<Row Type="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Tag="CLASS_AIRCRAFT"/>
+		<!--City States -->
+		<Row Type="ABILITY_MYSTORM_MELEE_HILLS_BONUS" Tag="CLASS_MELEE"/>
+		<!-- End City States-->
 	</TypeTags>
 
 	<UnitAbilities>
@@ -64,7 +70,9 @@
 
 		<Row UnitAbilityType="ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES" Name="LOC_ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES_NAME" Description="LOC_ABILITY_MYSTORM_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION" Inactive="true"/>
 		<Row UnitAbilityType="ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Name="LOC_ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION_NAME" Description="LOC_ABILITY_MYSTORM_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION" Inactive="true"/>
-
+		<!--City States -->
+		<Row UnitAbilityType="ABILITY_MYSTORM_MELEE_HILLS_BONUS" Name="LOC_ABILITY_MYSTORM_MELEE_HILLS_BONUS_NAME" Description="LOC_ABILITY_MYSTORM_MELEE_HILLS_BONUS_DESCRIPTION" Inactive="true"/>
+		<!-- End City States-->
 	</UnitAbilities>
 
 	<UnitAbilityModifiers>
@@ -117,6 +125,12 @@
 			<UnitAbilityType>ABILITY_MANDRAS_SHIP</UnitAbilityType>
 			<ModifierId>MYSTORM_OCEAN_COMBAT</ModifierId>
 		</Row>
+		<!--City States -->
+		<Row>
+			<UnitAbilityType>ABILITY_MYSTORM_MELEE_HILLS_BONUS</UnitAbilityType>
+			<ModifierId>MYSTORM_MELEE_HILLS_BONUS</ModifierId>
+		</Row>
+		<!-- End City States-->
 	</UnitAbilityModifiers>
 
 	<Modifiers>
@@ -185,6 +199,13 @@
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>MYSTORM_UNIT_PLOT_IS_OCEAN_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYSTORM_MELEE_HILLS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BALKAN_CAVALRY_PLOT_IS_HILS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- End City States-->
 	</Modifiers>
 
 	<ModifierArguments>
@@ -273,6 +294,13 @@
 			<Name>Amount</Name>
 			<Value>10</Value>
 		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYSTORM_MELEE_HILLS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!-- End City States-->
 	</ModifierArguments>
 
 	<RequirementSets>
@@ -359,6 +387,8 @@
 		<Row ModifierId="MYSTORM_COMBAT_BONUS_OTHER_RELIGION" Context="Preview" Text="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION"/>
 		<Row ModifierId="MYSTORM_GOD_PRIEST_GUARD_SPECIFIC_UNIT_COMBAT" Context="Preview" Text="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION"/>
 		<Row ModifierId="MYSTORM_OCEAN_COMBAT" Context="Preview" Text="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION"/>
-
+		<!--City States -->
+		<Row ModifierId="MYSTORM_MELEE_HILLS_BONUS" Context="Preview" Text="LOC_ABILITY_MYSTORM_MELEE_HILLS_BONUS_DESCRIPTION"/>
+		<!-- End City States-->
 	</ModifierStrings>
 </GameData>
