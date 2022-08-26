@@ -44,8 +44,7 @@
         </UpdateIcons>
         <UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt>
       </InGameActions>]]></InGameActionData>
-    <FrontEndActionData>
-      <![CDATA[<FrontEndActions>
+    <FrontEndActionData><![CDATA[<FrontEndActions>
       <UpdateDatabase id="Config">
         <File>MyStorm_Config.xml</File>
       </UpdateDatabase>
@@ -59,6 +58,12 @@
         <File>MyStorm_Icons.xml</File>
       </UpdateIcons>
       <UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt>
+      <AddMap id="AddMapRoshar"><Properties><Group>StandardMaps</Group><Name>Roshar Map Vanilla</Name><Description>Roshar Map</Description></Properties><File>Maps/Roshar.Civ6Map</File></AddMap>
+      <AddMap id="AddMapRosharRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>Roshar Map RF</Name><Description>The Roshar Map RF</Description></Properties><File>Maps/Roshar.Civ6Map</File></AddMap>
+      <AddMap id="AddMapRosharGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>Roshar Map Gathering</Name><Description>Roshar Map Gathering</Description></Properties><File>Maps/Roshar.Civ6Map</File></AddMap>
+      <AddMap id="AddMapShadesmar"><Properties><Group>StandardMaps</Group><Name>Shadesmar Map Vanilla</Name><Description>Shadesmar Map</Description></Properties><File>Maps/Shadesmar.Civ6Map</File></AddMap>
+      <AddMap id="AddMapShadesmarRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>Shadesmar Map RF</Name><Description>The Shadesmar Map RF</Description></Properties><File>Maps/Shadesmar.Civ6Map</File></AddMap>
+      <AddMap id="AddMapShadesmarGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>Shadesmar Map Gathering</Name><Description>Shadesmar Map Gathering</Description></Properties><File>Maps/Shadesmar.Civ6Map</File></AddMap>
     </FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[
       <ActionCriteria>
@@ -76,6 +81,12 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Maps\Roshar.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Maps\Shadesmar.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="MyStorm_Religions.xml">
       <SubType>Content</SubType>
     </Content>
@@ -88,6 +99,7 @@
     <Content Include="MyStorm_Wonders.xml">
       <SubType>Content</SubType>
     </Content>
+    <Folder Include="Maps" />
     <Folder Include="Artdefs\" />
     <Folder Include="Textures\" />
     <Folder Include="XLPs\" />

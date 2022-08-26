@@ -27,7 +27,7 @@
 			<Text>Accumulate 60% less war weariness than usual. Unit maintenance cost reduced by 2 Gold per turn, per unit.  Capture defeated enemy units as Builders.</Text>
 		</Row>
 		<!-- JASNAH -->
-		<Row Tag="LOC_LEADER_JASNAH_KHOLIN_NAME" Language="en_US" Text="Dalinar Kholin"/>
+		<Row Tag="LOC_LEADER_JASNAH_KHOLIN_NAME" Language="en_US" Text="Jasnah Kholin"/>
 		<Row Tag="LOC_TRAIT_ELSECALLING_NAME" Language="en_US" Text="Elsecalling"/>
 		<Row Tag="LOC_TRAIT_ELSECALLING_DESCRIPTION" Language="en_US">
 			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%. When completing a wonder receive a random [ICON_TechBoosted] Eureka and [ICON_CivicBoosted] Inspiration from the era of the wonder, if available. Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3.</Text>

@@ -686,6 +686,17 @@
 		<Row Tag="LOC_NAMED_MOUNTAIN_UNCLAIMED_HILLS_NAME" Language="en_US" Text="Unclaimed Hills" />
 		<Row Tag="LOC_NAMED_MOUNTAIN_MOUNTAINS_OF_UR_NAME" Language="en_US" Text="Mountains of Ur" />
 		<Row Tag="LOC_NAMED_MOUNTAIN_THE_MISTED_MOUNTAINS_NAME" Language="en_US" Text="The Misted Mountains" />
-
+		<!--CONTINENTS-->
+		<Row Tag="LOC_CONTINENT_IRI_DESCRIPTION" Language="en_US" Text="Iri" />
+		<Row Tag="LOC_CONTINENT_SHIN_KAK_NISH_DESCRIPTION" Language="en_US" Text="Shin Kak Nish" />
+		<Row Tag="LOC_CONTINENT_AIMIA_DESCRIPTION" Language="en_US" Text="Aimia" />
+		<Row Tag="LOC_CONTINENT_SELAS_TALES_DESCRIPTION" Language="en_US" Text="Selas Tales" />
+		<Row Tag="LOC_CONTINENT_MAKABAKAM_DESCRIPTION" Language="en_US" Text="Makabakam" />
+		<Row Tag="LOC_CONTINENT_VALHAV_DESCRIPTION" Language="en_US" Text="Valhav" />
+		<Row Tag="LOC_CONTINENT_RISHIR_DESCRIPTION" Language="en_US" Text="Rishir" />
+		<Row Tag="LOC_CONTINENT_ALETHELA_DESCRIPTION" Language="en_US" Text="Alethela" />
+		<Row Tag="LOC_CONTINENT_NATANATAN_DESCRIPTION" Language="en_US" Text="Natanatan" />
+		<Row Tag="LOC_CONTINENT_THALATH_DESCRIPTION" Language="en_US" Text="Thalath" />
+		<Row Tag="LOC_CONTINENT_SHADESMAR_DESCRIPTION" Language="en_US" Text="Shadesmar" />
 	</LocalizedText>
 </GameData>

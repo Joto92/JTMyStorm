@@ -120,7 +120,8 @@
     <Element>
       <consumerName text="Terrain"/>
       <relativeArtDefPaths>
-      </relativeArtDefPaths>
+		  <Element text="TerrainStyle.artdef"/>
+	  </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="TerrainAsset"/>
         <Element text="TerrainElement"/>
